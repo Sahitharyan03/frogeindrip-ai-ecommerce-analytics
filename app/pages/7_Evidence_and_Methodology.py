@@ -69,9 +69,53 @@ st.dataframe(evidence_matrix_df, use_container_width=True, hide_index=True)
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-# 2. Detailed Screenshot Analysis
-st.markdown("### 📸 Detailed Audit of Square POS Screenshots")
+# 2. Detailed Screenshot Analysis & Visual Proof
+st.markdown("### 📸 Primary Square POS Visual Evidence")
 
+screenshot_dir = ROOT_DIR / "evidence" / "screenshots"
+tab1, tab2, tab3 = st.tabs([
+    "📈 12-Month Sales Trend ($38,131.26)",
+    "🏔️ May 2026 Peak Tooltip ($8,397.00)",
+    "📉 July 2026 Run-Rate ($1,505.00)",
+])
+
+with tab1:
+    img1 = screenshot_dir / "01_square_gross_sales_trend_overview.png"
+    if img1.exists():
+        st.image(str(img1), caption="Figure 1: Square Analytics Gross Sales Trend Overview (Jul 01, 2025 – Jul 01, 2026) — Verified Gross Sales $38,131.26 vs $0 Baseline.", use_container_width=True)
+    st.markdown(
+        """
+        - **Active Period:** `Jul 01, 2025 – Jul 01, 2026` (366 days)
+        - **Verified Metric:** Gross Sales = **$38,131.26**
+        - **Prior Period Baseline:** `$0.00` (*Jun 30, 2024 – Jun 30, 2025*)
+        - **Account Privacy:** Redacted internal profile identifier (`[REDACTED ACCOUNT]`) to preserve client confidentiality.
+        """
+    )
+
+with tab2:
+    img2 = screenshot_dir / "02_square_may_2026_peak_sales_tooltip.png"
+    if img2.exists():
+        st.image(str(img2), caption="Figure 2: Square Analytics May 2026 Peak Month Tooltip ($8,397.00 item sales including modifiers).", use_container_width=True)
+    st.markdown(
+        """
+        - **Peak Month Reported:** **May 2026 = $8,397.00**
+        - **Revenue Contribution:** **22.02%** of 12-month rolling gross revenue ($8,397.00 / $38,131.26).
+        - **Context:** Represents the primary seasonal capsule collection drop.
+        """
+    )
+
+with tab3:
+    img3 = screenshot_dir / "03_square_july_2026_run_rate_tooltip.png"
+    if img3.exists():
+        st.image(str(img3), caption="Figure 3: Square Analytics July 2026 Post-Peak Tooltip ($1,505.00 run-rate).", use_container_width=True)
+    st.markdown(
+        """
+        - **Post-Peak Contraction:** **July 2026 = $1,505.00**
+        - **Significance:** Documents sell-through dynamics and marketing taper post-campaign.
+        """
+    )
+
+st.markdown("<br>", unsafe_allow_html=True)
 col_a, col_b = st.columns(2)
 
 with col_a:
@@ -80,7 +124,7 @@ with col_a:
         #### Screenshot Group A: Sales Summary
         - **Metric Reported:** Net Sales = **$46,271.26**
         - **Active Period:** `Sep 01, 2025 – Jul 31, 2026` (11 calendar months)
-        - **Account Name:** `[REDACTED PROFILE]` (Brand: Frogeindrip)
+        - **Account Name:** `[REDACTED ACCOUNT]` (Brand: Frogeindrip)
         - **Reporting Grain:** Hourly, daily, and day-of-week aggregations
         - **Key Observation:** Captures full revenue across all operating channels through late July 2026.
         """

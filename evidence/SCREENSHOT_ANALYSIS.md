@@ -7,24 +7,25 @@
 
 ## 1. Overview of Raw Visual Evidence
 
-Four high-resolution screenshots were extracted from the client's Square Analytics administrative console. Below is the technical breakdown of each visual artifact:
+Visual evidence artifacts have been extracted directly from the client's Square Analytics administrative console, sanitized for client confidentiality, and cataloged in [`evidence/screenshots/`](file:///Users/sahit/Frogein%20drip/evidence/screenshots/):
 
 ```
-[Raw Square Analytics Screenshots]
+evidence/screenshots/
        │
-       ├── Screenshot 1 (Group B): Gross Sales Trend Overview (Jul 01, 2025 - Jul 01, 2026)
-       ├── Screenshot 2 (Group B): Sales Trend Secondary View / Header Elements
-       ├── Screenshot 3 (Group B): May 2026 Monthly Peak Tooltip ($8,397.00)
-       └── Screenshot 4 (Group B): July 2026 Run-rate Tooltip ($1,505.00)
+       ├── 01_square_gross_sales_trend_overview.png   (Gross Sales: $38,131.26 | Jul 01, 2025 - Jul 01, 2026)
+       ├── 02_square_may_2026_peak_sales_tooltip.png  (Peak Month: $8,397.00 | May 2026)
+       └── 03_square_july_2026_run_rate_tooltip.png   (Post-Peak Run-rate: $1,505.00 | Jul 2026)
 ```
 
 ---
 
 ## 2. In-Depth Screenshot Inspection
 
-### Screenshot 1 & 2: Sales Trends High-Level Overview
+### Screenshot 1: Sales Trends High-Level Overview
+![01_square_gross_sales_trend_overview](screenshots/01_square_gross_sales_trend_overview.png)
+
 - **URL Path:** `app.squareup.com/dashboard/reports/sales/trends`
-- **Account Display Name:** `Real Knitz` *(Internal Square Account Profile Name; brand is Frogeindrip)*
+- **Account Identifier:** `[REDACTED ACCOUNT]` *(Internal Square profile identifier; brand is Frogeindrip)*
 - **Service Plan:** `Square Free · See plans`
 - **Location Filter:** `Location 1`
 - **Channel Filter:** `All channels`
@@ -40,14 +41,22 @@ Four high-resolution screenshots were extracted from the client's Square Analyti
   - Steady expansion through January 2026 (~$3.5k), March 2026 (~$5.8k), reaching a maximum peak in May 2026.
   - Steep downward slope into June/July 2026 as inventory sold through or marketing paused.
 
-### Screenshot 3: Peak Month Deep-Dive
+---
+
+### Screenshot 2: Peak Month Deep-Dive
+![02_square_may_2026_peak_sales_tooltip](screenshots/02_square_may_2026_peak_sales_tooltip.png)
+
 - **Active Tooltip:** Focused on May 2026 datapoint on line chart.
 - **Metric Definition Displayed:** *"Item sales including modifiers and service charges."*
 - **Reported May 2026 Volume:** **$8,397.00**
 - **Comparison Volume (Apr 2025):** **$0.00**
 - **Business Significance:** May 2026 accounts for **22.02%** of the entire 12-month rolling gross revenue ($8,397 / $38,131.26), confirming a high-velocity seasonal or capsule collection apparel drop.
 
-### Screenshot 4: Post-Peak Drop-off Deep-Dive
+---
+
+### Screenshot 3: Post-Peak Drop-off Deep-Dive
+![03_square_july_2026_run_rate_tooltip](screenshots/03_square_july_2026_run_rate_tooltip.png)
+
 - **Active Tooltip:** Focused on July 2026 datapoint on line chart.
 - **Reported July 2026 Volume:** **$1,505.00**
 - **Comparison Volume (Jun 2025):** **$0.00**

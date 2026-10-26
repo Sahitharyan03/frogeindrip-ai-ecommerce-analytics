@@ -35,6 +35,8 @@ All statements in this repository are strictly classified under a four-tier data
 | **Tier 3: Pending Verification** | **Repeat Buyers Drove ~35% GMV** | Freelance Resume Engagement Claim | Simulated in Synthetic Demo |
 | **Tier 4: Synthetic Demo** | **Lakehouse, ML & AI Copilot** | Deterministic Generator (`seed=42`) | Open-Source & Reproducible |
 
+> **Visual Evidence Gallery:** The primary Square Analytics screenshots verifying these baseline numbers are uploaded and documented in [`evidence/screenshots/`](evidence/screenshots/README.md) with client confidentiality protections applied.
+>
 > **Accounting & Statistical Note:** Group A Net Sales ($46,271.26) and Group B Gross Sales ($38,131.26) reflect different reporting windows and different accounting definitions. **They must never be combined.** Square's `+100%` growth tag is an artifact of a zero-revenue baseline, representing a new brand launch rather than organic CAGR.
 
 ---
