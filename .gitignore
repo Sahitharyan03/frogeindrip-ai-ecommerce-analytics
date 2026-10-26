@@ -40,6 +40,7 @@ venv.bak/
 # Data & Database files
 *.duckdb.tmp
 *.duckdb.wal
+*.zip
 
 # IDE & OS
 .vscode/
