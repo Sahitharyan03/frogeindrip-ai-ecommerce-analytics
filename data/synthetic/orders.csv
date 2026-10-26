@@ -1,0 +1,612 @@
+order_id,customer_id,order_date,status,gross_amount,discount_amount,net_amount,tax_amount,shipping_amount,total_amount,payment_method,channel
+ORD-10001,CUST-0281,2025-09-10 07:29:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Apple Pay,Online Store
+ORD-10002,CUST-0384,2025-09-17 01:21:00,completed,115.0,0.0,115.0,8.34,0.0,123.34,Square Online,Online Store
+ORD-10004,CUST-0302,2025-09-23 16:57:00,completed,150.0,0.0,150.0,10.88,0.0,160.88,Credit Card,Online Store
+ORD-10005,CUST-0122,2025-09-27 12:35:00,completed,287.0,0.0,287.0,20.81,0.0,307.81,Square Online,Online Store
+ORD-10006,CUST-0139,2025-09-27 21:00:00,completed,76.0,0.0,76.0,5.51,8.0,89.51,Square Online,Online Store
+ORD-10007,CUST-0081,2025-09-28 13:06:00,completed,94.0,9.4,84.6,6.13,8.0,98.73,Square Online,Online Store
+ORD-10008,CUST-0422,2025-09-28 17:56:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square POS,Pop-up / Event POS
+ORD-10010,CUST-0365,2025-09-29 08:56:00,completed,183.0,0.0,183.0,13.27,0.0,196.27,Credit Card,Online Store
+ORD-10011,CUST-0130,2025-10-01 08:43:00,completed,206.0,0.0,206.0,14.93,0.0,220.93,Square Online,Online Store
+ORD-10013,CUST-0430,2025-10-05 16:52:00,completed,96.0,0.0,96.0,6.96,0.0,102.96,Apple Pay,Online Store
+ORD-10014,CUST-0034,2025-10-06 03:01:00,completed,183.0,0.0,183.0,13.27,0.0,196.27,Square Online,Online Store
+ORD-10015,CUST-0307,2025-10-08 01:47:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Apple Pay,Online Store
+ORD-10016,CUST-0111,2025-10-09 00:44:00,completed,98.0,0.0,98.0,7.1,0.0,105.1,Square POS,Online Store
+ORD-10017,CUST-0434,2025-10-09 03:44:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Square POS,Online Store
+ORD-10018,CUST-0423,2025-10-09 15:34:00,completed,54.0,0.0,54.0,3.91,8.0,65.91,Square Online,Online Store
+ORD-10019,CUST-0080,2025-10-09 18:38:00,completed,182.0,0.0,182.0,13.19,0.0,195.19,Square Online,Online Store
+ORD-10020,CUST-0208,2025-10-12 01:54:00,completed,151.0,0.0,151.0,10.95,0.0,161.95,Square POS,Pop-up / Event POS
+ORD-10022,CUST-0270,2025-10-14 13:32:00,completed,299.0,0.0,299.0,21.68,0.0,320.68,Square Online,Online Store
+ORD-10023,CUST-0041,2025-10-15 04:03:00,completed,300.0,0.0,300.0,21.75,0.0,321.75,Square POS,Pop-up / Event POS
+ORD-10024,CUST-0044,2025-10-17 07:34:00,completed,131.0,0.0,131.0,9.5,0.0,140.5,Square POS,Online Store
+ORD-10025,CUST-0232,2025-10-17 23:51:00,completed,122.0,0.0,122.0,8.84,0.0,130.84,Credit Card,Online Store
+ORD-10027,CUST-0129,2025-10-18 07:32:00,completed,84.0,0.0,84.0,6.09,8.0,98.09,Apple Pay,Online Store
+ORD-10028,CUST-0319,2025-10-18 19:17:00,completed,115.0,0.0,115.0,8.34,0.0,123.34,Square POS,Pop-up / Event POS
+ORD-10029,CUST-0189,2025-10-18 20:39:00,completed,264.0,0.0,264.0,19.14,0.0,283.14,Square POS,Pop-up / Event POS
+ORD-10032,CUST-0391,2025-10-19 01:10:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Pop-up / Event POS
+ORD-10033,CUST-0280,2025-10-20 00:33:00,completed,147.0,0.0,147.0,10.66,0.0,157.66,Square POS,Pop-up / Event POS
+ORD-10034,CUST-0068,2025-10-21 21:25:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square Online,Online Store
+ORD-10037,CUST-0040,2025-10-22 13:19:00,completed,123.0,0.0,123.0,8.92,0.0,131.92,Square Online,Online Store
+ORD-10039,CUST-0214,2025-10-24 09:43:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square Online,Online Store
+ORD-10041,CUST-0295,2025-10-24 11:50:00,cancelled,193.0,19.3,173.7,12.59,0.0,186.29,Square Online,Online Store
+ORD-10040,CUST-0067,2025-10-24 12:43:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Apple Pay,Online Store
+ORD-10042,CUST-0211,2025-10-25 03:02:00,completed,176.0,0.0,176.0,12.76,0.0,188.76,Square POS,Online Store
+ORD-10043,CUST-0376,2025-10-25 08:04:00,refunded,131.0,0.0,131.0,9.5,0.0,140.5,Square Online,Online Store
+ORD-10045,CUST-0445,2025-10-26 15:24:00,completed,179.0,0.0,179.0,12.98,0.0,191.98,Apple Pay,Online Store
+ORD-10046,CUST-0312,2025-10-26 23:21:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square POS,Pop-up / Event POS
+ORD-10048,CUST-0223,2025-10-27 09:17:00,completed,193.0,0.0,193.0,13.99,0.0,206.99,Credit Card,Online Store
+ORD-10049,CUST-0098,2025-10-30 01:51:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Apple Pay,Online Store
+ORD-10051,CUST-0187,2025-10-30 03:33:00,completed,204.0,0.0,204.0,14.79,0.0,218.79,Square Online,Online Store
+ORD-10052,CUST-0050,2025-10-31 12:17:00,completed,199.0,0.0,199.0,14.43,0.0,213.43,Square Online,Online Store
+ORD-10053,CUST-0012,2025-10-31 21:29:00,completed,75.0,7.5,67.5,4.89,8.0,80.39,Apple Pay,Online Store
+ORD-10054,CUST-0174,2025-11-01 00:54:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Credit Card,Online Store
+ORD-10055,CUST-0269,2025-11-01 07:00:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square Online,Online Store
+ORD-10056,CUST-0035,2025-11-02 10:42:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10058,CUST-0392,2025-11-04 03:43:00,cancelled,84.0,0.0,84.0,6.09,8.0,98.09,Square Online,Online Store
+ORD-10059,CUST-0056,2025-11-04 12:35:00,completed,100.0,0.0,100.0,7.25,0.0,107.25,Square Online,Online Store
+ORD-10060,CUST-0298,2025-11-04 23:49:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square Online,Online Store
+ORD-10062,CUST-0244,2025-11-05 01:04:00,completed,183.0,0.0,183.0,13.27,0.0,196.27,Square Online,Online Store
+ORD-10066,CUST-0412,2025-11-05 13:31:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Square Online,Online Store
+ORD-10068,CUST-0084,2025-11-05 23:40:00,completed,583.0,0.0,583.0,42.27,0.0,625.27,Square POS,Online Store
+ORD-10069,CUST-0195,2025-11-06 03:14:00,completed,70.0,0.0,70.0,5.07,8.0,83.07,Square POS,Pop-up / Event POS
+ORD-10021,CUST-0208,2025-11-09 04:54:00,completed,115.0,11.5,103.5,7.5,0.0,111.0,Square Online,Online Store
+ORD-10070,CUST-0117,2025-11-09 05:50:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square Online,Online Store
+ORD-10071,CUST-0310,2025-11-10 06:57:00,completed,254.0,25.4,228.6,16.57,0.0,245.17,Square POS,Pop-up / Event POS
+ORD-10073,CUST-0168,2025-11-10 23:34:00,completed,84.0,0.0,84.0,6.09,8.0,98.09,Square POS,Pop-up / Event POS
+ORD-10074,CUST-0401,2025-11-12 15:01:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10009,CUST-0422,2025-11-12 18:56:00,completed,300.0,0.0,300.0,21.75,0.0,321.75,Credit Card,Online Store
+ORD-10076,CUST-0156,2025-11-12 20:34:00,completed,176.0,0.0,176.0,12.76,0.0,188.76,Square Online,Online Store
+ORD-10078,CUST-0290,2025-11-13 20:32:00,cancelled,105.0,0.0,105.0,7.61,0.0,112.61,Square Online,Online Store
+ORD-10079,CUST-0366,2025-11-14 13:18:00,completed,105.0,0.0,105.0,7.61,0.0,112.61,Square Online,Online Store
+ORD-10080,CUST-0006,2025-11-14 15:09:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Square POS,Pop-up / Event POS
+ORD-10003,CUST-0384,2025-11-14 21:21:00,refunded,183.0,0.0,183.0,13.27,0.0,196.27,Square Online,Online Store
+ORD-10081,CUST-0251,2025-11-15 19:53:00,completed,110.0,11.0,99.0,7.18,0.0,106.18,Square Online,Online Store
+ORD-10084,CUST-0418,2025-11-16 01:43:00,completed,186.0,0.0,186.0,13.48,0.0,199.48,Credit Card,Online Store
+ORD-10085,CUST-0327,2025-11-16 06:51:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square POS,Online Store
+ORD-10086,CUST-0178,2025-11-16 09:54:00,completed,26.0,2.6,23.4,1.7,8.0,33.1,Apple Pay,Online Store
+ORD-10088,CUST-0175,2025-11-16 21:02:00,completed,105.0,0.0,105.0,7.61,0.0,112.61,Apple Pay,Online Store
+ORD-10089,CUST-0389,2025-11-18 00:26:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Shop Pay,Online Store
+ORD-10090,CUST-0172,2025-11-18 02:47:00,refunded,116.0,0.0,116.0,8.41,0.0,124.41,Square Online,Online Store
+ORD-10091,CUST-0015,2025-11-19 07:58:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10035,CUST-0068,2025-11-19 19:25:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square Online,Online Store
+ORD-10093,CUST-0031,2025-11-19 19:27:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10094,CUST-0085,2025-11-20 00:37:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square POS,Pop-up / Event POS
+ORD-10095,CUST-0231,2025-11-20 10:05:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square Online,Online Store
+ORD-10096,CUST-0186,2025-11-20 17:43:00,completed,56.0,0.0,56.0,4.06,8.0,68.06,Square Online,Online Store
+ORD-10097,CUST-0194,2025-11-21 00:25:00,completed,95.0,9.5,85.5,6.2,8.0,99.7,Square Online,Online Store
+ORD-10098,CUST-0017,2025-11-22 14:07:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Square Online,Online Store
+ORD-10099,CUST-0023,2025-11-23 06:25:00,completed,110.0,0.0,110.0,7.97,0.0,117.97,Square POS,Online Store
+ORD-10100,CUST-0444,2025-11-24 21:13:00,cancelled,306.0,30.6,275.4,19.97,0.0,295.37,Apple Pay,Online Store
+ORD-10101,CUST-0353,2025-11-27 07:26:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Apple Pay,Online Store
+ORD-10103,CUST-0078,2025-11-27 15:22:00,completed,121.0,0.0,121.0,8.77,0.0,129.77,Square POS,Pop-up / Event POS
+ORD-10104,CUST-0166,2025-11-27 16:44:00,completed,150.0,0.0,150.0,10.88,0.0,160.88,Square POS,Pop-up / Event POS
+ORD-10105,CUST-0164,2025-11-27 19:43:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square Online,Online Store
+ORD-10012,CUST-0130,2025-11-28 06:43:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square Online,Online Store
+ORD-10108,CUST-0292,2025-11-28 13:14:00,completed,190.0,0.0,190.0,13.77,0.0,203.77,Shop Pay,Online Store
+ORD-10107,CUST-0284,2025-11-28 13:51:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Shop Pay,Online Store
+ORD-10110,CUST-0054,2025-11-28 15:31:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square Online,Online Store
+ORD-10111,CUST-0428,2025-11-28 20:29:00,completed,129.0,0.0,129.0,9.35,0.0,138.35,Credit Card,Online Store
+ORD-10026,CUST-0232,2025-11-29 03:51:00,completed,167.0,0.0,167.0,12.11,0.0,179.11,Square Online,Online Store
+ORD-10113,CUST-0110,2025-11-29 04:36:00,completed,351.0,0.0,351.0,25.45,0.0,376.45,Square Online,Online Store
+ORD-10057,CUST-0035,2025-11-29 10:42:00,completed,176.0,0.0,176.0,12.76,0.0,188.76,Square Online,Online Store
+ORD-10115,CUST-0246,2025-11-29 12:31:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Shop Pay,Online Store
+ORD-10116,CUST-0222,2025-11-29 14:14:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Credit Card,Online Store
+ORD-10117,CUST-0061,2025-11-29 22:32:00,completed,123.0,0.0,123.0,8.92,0.0,131.92,Square Online,Online Store
+ORD-10118,CUST-0118,2025-11-30 07:54:00,completed,116.0,0.0,116.0,8.41,0.0,124.41,Square Online,Online Store
+ORD-10119,CUST-0158,2025-12-03 00:28:00,completed,207.0,0.0,207.0,15.01,0.0,222.01,Square Online,Online Store
+ORD-10121,CUST-0354,2025-12-04 00:49:00,completed,176.0,0.0,176.0,12.76,0.0,188.76,Square Online,Online Store
+ORD-10122,CUST-0261,2025-12-04 14:40:00,completed,42.0,4.2,37.8,2.74,8.0,48.54,Square POS,Online Store
+ORD-10123,CUST-0210,2025-12-04 18:37:00,completed,259.0,0.0,259.0,18.78,0.0,277.78,Apple Pay,Online Store
+ORD-10124,CUST-0171,2025-12-05 19:28:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square Online,Online Store
+ORD-10125,CUST-0146,2025-12-05 20:50:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square Online,Online Store
+ORD-10126,CUST-0120,2025-12-06 02:09:00,completed,172.0,0.0,172.0,12.47,0.0,184.47,Shop Pay,Online Store
+ORD-10128,CUST-0262,2025-12-06 19:39:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Square Online,Online Store
+ORD-10030,CUST-0189,2025-12-06 22:39:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square POS,Online Store
+ORD-10131,CUST-0103,2025-12-07 04:55:00,completed,389.0,0.0,389.0,28.2,0.0,417.2,Apple Pay,Online Store
+ORD-10134,CUST-0359,2025-12-07 17:23:00,refunded,72.0,7.2,64.8,4.7,8.0,77.5,Apple Pay,Online Store
+ORD-10135,CUST-0356,2025-12-08 15:41:00,completed,56.0,0.0,56.0,4.06,8.0,68.06,Square Online,Online Store
+ORD-10136,CUST-0004,2025-12-08 17:55:00,completed,149.0,0.0,149.0,10.8,0.0,159.8,Square Online,Online Store
+ORD-10138,CUST-0202,2025-12-09 00:10:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Apple Pay,Online Store
+ORD-10139,CUST-0136,2025-12-09 05:06:00,completed,28.0,2.8,25.2,1.83,8.0,35.03,Apple Pay,Online Store
+ORD-10140,CUST-0294,2025-12-09 07:56:00,completed,183.0,0.0,183.0,13.27,0.0,196.27,Credit Card,Online Store
+ORD-10142,CUST-0047,2025-12-09 13:21:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square POS,Online Store
+ORD-10143,CUST-0104,2025-12-10 07:21:00,completed,122.0,0.0,122.0,8.84,0.0,130.84,Apple Pay,Online Store
+ORD-10044,CUST-0376,2025-12-10 10:04:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square POS,Pop-up / Event POS
+ORD-10144,CUST-0266,2025-12-10 16:31:00,completed,304.0,30.4,273.6,19.84,0.0,293.44,Apple Pay,Online Store
+ORD-10072,CUST-0310,2025-12-11 07:57:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Square Online,Online Store
+ORD-10145,CUST-0426,2025-12-12 05:31:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Pop-up / Event POS
+ORD-10146,CUST-0092,2025-12-12 05:57:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square POS,Online Store
+ORD-10148,CUST-0339,2025-12-12 08:51:00,completed,274.0,0.0,274.0,19.86,0.0,293.86,Apple Pay,Online Store
+ORD-10149,CUST-0127,2025-12-12 15:33:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Apple Pay,Online Store
+ORD-10150,CUST-0113,2025-12-14 00:13:00,completed,75.0,7.5,67.5,4.89,8.0,80.39,Apple Pay,Online Store
+ORD-10152,CUST-0132,2025-12-14 07:57:00,completed,285.0,0.0,285.0,20.66,0.0,305.66,Square Online,Online Store
+ORD-10153,CUST-0350,2025-12-15 17:28:00,completed,42.0,4.2,37.8,2.74,8.0,48.54,Apple Pay,Online Store
+ORD-10154,CUST-0440,2025-12-16 01:54:00,completed,36.0,3.6,32.4,2.35,8.0,42.75,Square Online,Online Store
+ORD-10155,CUST-0057,2025-12-16 09:51:00,completed,218.0,0.0,218.0,15.8,0.0,233.8,Square POS,Pop-up / Event POS
+ORD-10156,CUST-0219,2025-12-16 11:16:00,completed,142.0,0.0,142.0,10.29,0.0,152.29,Square POS,Pop-up / Event POS
+ORD-10157,CUST-0107,2025-12-16 13:52:00,completed,327.0,0.0,327.0,23.71,0.0,350.71,Square Online,Online Store
+ORD-10161,CUST-0100,2025-12-16 14:06:00,completed,70.0,7.0,63.0,4.57,8.0,75.57,Square Online,Online Store
+ORD-10162,CUST-0180,2025-12-16 16:35:00,completed,307.0,0.0,307.0,22.26,0.0,329.26,Apple Pay,Online Store
+ORD-10163,CUST-0239,2025-12-17 04:44:00,completed,88.0,8.8,79.2,5.74,8.0,92.94,Square POS,Online Store
+ORD-10164,CUST-0380,2025-12-17 18:57:00,refunded,98.0,0.0,98.0,7.1,0.0,105.1,Square Online,Online Store
+ORD-10165,CUST-0254,2025-12-17 22:16:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10166,CUST-0157,2025-12-18 06:00:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square Online,Online Store
+ORD-10167,CUST-0197,2025-12-18 06:37:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Square POS,Pop-up / Event POS
+ORD-10169,CUST-0163,2025-12-19 10:15:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Online Store
+ORD-10170,CUST-0076,2025-12-19 11:06:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square POS,Pop-up / Event POS
+ORD-10047,CUST-0312,2025-12-20 20:21:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Apple Pay,Online Store
+ORD-10171,CUST-0252,2025-12-21 07:59:00,completed,233.0,0.0,233.0,16.89,0.0,249.89,Square Online,Online Store
+ORD-10173,CUST-0161,2025-12-21 13:15:00,refunded,34.0,0.0,34.0,2.46,8.0,44.46,Credit Card,Online Store
+ORD-10067,CUST-0412,2025-12-21 17:31:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Online Store
+ORD-10174,CUST-0220,2025-12-21 23:00:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Apple Pay,Online Store
+ORD-10061,CUST-0298,2025-12-22 03:49:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Online Store
+ORD-10175,CUST-0082,2025-12-22 09:01:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Square Online,Online Store
+ORD-10176,CUST-0028,2025-12-23 07:48:00,completed,200.0,0.0,200.0,14.5,0.0,214.5,Apple Pay,Online Store
+ORD-10178,CUST-0371,2025-12-23 09:07:00,completed,205.0,0.0,205.0,14.86,0.0,219.86,Square POS,Pop-up / Event POS
+ORD-10179,CUST-0150,2025-12-24 05:02:00,completed,183.0,0.0,183.0,13.27,0.0,196.27,Square POS,Online Store
+ORD-10180,CUST-0382,2025-12-24 07:21:00,completed,44.0,4.4,39.6,2.87,8.0,50.47,Square POS,Online Store
+ORD-10182,CUST-0216,2025-12-24 20:12:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Credit Card,Online Store
+ORD-10183,CUST-0185,2025-12-25 03:33:00,completed,105.0,0.0,105.0,7.61,0.0,112.61,Square POS,Online Store
+ORD-10184,CUST-0008,2025-12-25 11:05:00,completed,105.0,0.0,105.0,7.61,0.0,112.61,Square POS,Online Store
+ORD-10186,CUST-0400,2025-12-25 16:11:00,completed,130.0,13.0,117.0,8.48,0.0,125.48,Square Online,Online Store
+ORD-10087,CUST-0178,2025-12-26 05:54:00,completed,176.0,0.0,176.0,12.76,0.0,188.76,Square Online,Online Store
+ORD-10187,CUST-0264,2025-12-27 09:58:00,completed,121.0,0.0,121.0,8.77,0.0,129.77,Shop Pay,Online Store
+ORD-10188,CUST-0019,2025-12-28 04:36:00,completed,146.0,0.0,146.0,10.58,0.0,156.58,Square POS,Pop-up / Event POS
+ORD-10189,CUST-0201,2025-12-29 08:09:00,completed,208.0,0.0,208.0,15.08,0.0,223.08,Square Online,Online Store
+ORD-10191,CUST-0288,2025-12-30 04:55:00,completed,287.0,0.0,287.0,20.81,0.0,307.81,Square Online,Online Store
+ORD-10192,CUST-0240,2025-12-30 06:04:00,completed,42.0,4.2,37.8,2.74,8.0,48.54,Square Online,Online Store
+ORD-10193,CUST-0301,2025-12-30 07:13:00,completed,204.0,0.0,204.0,14.79,0.0,218.79,Square Online,Online Store
+ORD-10038,CUST-0040,2025-12-30 12:19:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Square Online,Online Store
+ORD-10050,CUST-0098,2025-12-31 03:51:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Apple Pay,Online Store
+ORD-10194,CUST-0106,2025-12-31 07:13:00,completed,115.0,0.0,115.0,8.34,0.0,123.34,Square POS,Pop-up / Event POS
+ORD-10195,CUST-0090,2025-12-31 09:03:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Shop Pay,Online Store
+ORD-10196,CUST-0039,2025-12-31 12:46:00,completed,70.0,0.0,70.0,5.07,8.0,83.07,Square Online,Online Store
+ORD-10199,CUST-0336,2025-12-31 13:21:00,completed,156.0,0.0,156.0,11.31,0.0,167.31,Square Online,Online Store
+ORD-10201,CUST-0073,2025-12-31 18:39:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Apple Pay,Online Store
+ORD-10204,CUST-0149,2025-12-31 21:00:00,completed,338.0,0.0,338.0,24.5,0.0,362.5,Square POS,Online Store
+ORD-10207,CUST-0419,2026-01-01 03:52:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square POS,Online Store
+ORD-10206,CUST-0241,2026-01-01 04:55:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square Online,Online Store
+ORD-10208,CUST-0435,2026-01-01 17:16:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square POS,Pop-up / Event POS
+ORD-10209,CUST-0160,2026-01-01 17:40:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square POS,Pop-up / Event POS
+ORD-10210,CUST-0025,2026-01-01 19:40:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Shop Pay,Online Store
+ORD-10211,CUST-0042,2026-01-02 00:03:00,completed,218.0,0.0,218.0,15.8,0.0,233.8,Square POS,Pop-up / Event POS
+ORD-10120,CUST-0158,2026-01-02 01:28:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Apple Pay,Online Store
+ORD-10212,CUST-0032,2026-01-02 14:08:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Square POS,Pop-up / Event POS
+ORD-10213,CUST-0125,2026-01-03 15:35:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Pop-up / Event POS
+ORD-10215,CUST-0399,2026-01-03 23:33:00,completed,75.0,7.5,67.5,4.89,8.0,80.39,Credit Card,Online Store
+ORD-10216,CUST-0099,2026-01-04 00:03:00,completed,121.0,0.0,121.0,8.77,0.0,129.77,Apple Pay,Online Store
+ORD-10218,CUST-0272,2026-01-04 02:38:00,completed,150.0,0.0,150.0,10.88,0.0,160.88,Apple Pay,Online Store
+ORD-10219,CUST-0155,2026-01-04 07:54:00,completed,149.0,0.0,149.0,10.8,0.0,159.8,Square Online,Online Store
+ORD-10031,CUST-0189,2026-01-04 19:39:00,completed,114.0,0.0,114.0,8.26,0.0,122.26,Square Online,Online Store
+ORD-10220,CUST-0397,2026-01-05 22:28:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square Online,Online Store
+ORD-10221,CUST-0291,2026-01-06 00:50:00,completed,95.0,9.5,85.5,6.2,8.0,99.7,Square Online,Online Store
+ORD-10222,CUST-0373,2026-01-06 03:56:00,completed,105.0,0.0,105.0,7.61,0.0,112.61,Apple Pay,Online Store
+ORD-10223,CUST-0379,2026-01-06 10:15:00,completed,163.0,0.0,163.0,11.82,0.0,174.82,Square POS,Pop-up / Event POS
+ORD-10224,CUST-0308,2026-01-06 21:05:00,completed,117.0,0.0,117.0,8.48,0.0,125.48,Square POS,Online Store
+ORD-10227,CUST-0345,2026-01-07 01:27:00,completed,137.0,13.7,123.3,8.94,0.0,132.24,Credit Card,Online Store
+ORD-10228,CUST-0162,2026-01-07 02:31:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square Online,Online Store
+ORD-10230,CUST-0036,2026-01-07 08:10:00,completed,110.0,0.0,110.0,7.97,0.0,117.97,Apple Pay,Online Store
+ORD-10109,CUST-0292,2026-01-07 14:14:00,completed,175.0,0.0,175.0,12.69,0.0,187.69,Apple Pay,Online Store
+ORD-10231,CUST-0151,2026-01-07 21:41:00,completed,88.0,8.8,79.2,5.74,8.0,92.94,Square Online,Online Store
+ORD-10232,CUST-0386,2026-01-07 22:39:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square Online,Online Store
+ORD-10233,CUST-0029,2026-01-08 04:40:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Shop Pay,Online Store
+ORD-10234,CUST-0045,2026-01-09 14:21:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square Online,Online Store
+ORD-10129,CUST-0262,2026-01-09 19:39:00,completed,141.0,0.0,141.0,10.22,0.0,151.22,Apple Pay,Online Store
+ORD-10235,CUST-0374,2026-01-09 20:12:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Credit Card,Online Store
+ORD-10237,CUST-0407,2026-01-10 05:09:00,completed,318.0,0.0,318.0,23.05,0.0,341.05,Apple Pay,Online Store
+ORD-10238,CUST-0026,2026-01-11 01:49:00,completed,190.0,0.0,190.0,13.77,0.0,203.77,Square POS,Online Store
+ORD-10114,CUST-0110,2026-01-12 04:36:00,cancelled,218.0,0.0,218.0,15.8,0.0,233.8,Square POS,Pop-up / Event POS
+ORD-10241,CUST-0053,2026-01-12 05:45:00,completed,215.0,0.0,215.0,15.59,0.0,230.59,Apple Pay,Online Store
+ORD-10244,CUST-0394,2026-01-12 09:14:00,completed,124.0,12.4,111.6,8.09,0.0,119.69,Square POS,Online Store
+ORD-10063,CUST-0244,2026-01-12 23:04:00,completed,127.0,0.0,127.0,9.21,0.0,136.21,Apple Pay,Online Store
+ORD-10246,CUST-0021,2026-01-13 02:45:00,completed,138.0,0.0,138.0,10.0,0.0,148.0,Square Online,Online Store
+ORD-10247,CUST-0009,2026-01-13 03:48:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square Online,Online Store
+ORD-10248,CUST-0091,2026-01-13 04:13:00,completed,183.0,0.0,183.0,13.27,0.0,196.27,Apple Pay,Online Store
+ORD-10250,CUST-0255,2026-01-13 09:46:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Credit Card,Online Store
+ORD-10137,CUST-0004,2026-01-13 16:55:00,completed,105.0,10.5,94.5,6.85,0.0,101.35,Square Online,Online Store
+ORD-10251,CUST-0324,2026-01-13 21:01:00,completed,130.0,0.0,130.0,9.42,0.0,139.42,Square Online,Online Store
+ORD-10253,CUST-0450,2026-01-14 01:25:00,completed,147.0,0.0,147.0,10.66,0.0,157.66,Square POS,Pop-up / Event POS
+ORD-10254,CUST-0377,2026-01-14 04:52:00,completed,176.0,0.0,176.0,12.76,0.0,188.76,Square Online,Online Store
+ORD-10255,CUST-0093,2026-01-14 18:17:00,completed,278.0,0.0,278.0,20.15,0.0,298.15,Square Online,Online Store
+ORD-10257,CUST-0121,2026-01-15 01:12:00,completed,157.0,0.0,157.0,11.38,0.0,168.38,Apple Pay,Online Store
+ORD-10258,CUST-0192,2026-01-15 06:03:00,completed,80.0,0.0,80.0,5.8,8.0,93.8,Square Online,Online Store
+ORD-10259,CUST-0065,2026-01-15 15:35:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Credit Card,Online Store
+ORD-10106,CUST-0164,2026-01-15 19:43:00,completed,52.0,0.0,52.0,3.77,8.0,63.77,Square Online,Online Store
+ORD-10260,CUST-0020,2026-01-16 05:20:00,completed,208.0,0.0,208.0,15.08,0.0,223.08,Square Online,Online Store
+ORD-10263,CUST-0258,2026-01-16 21:18:00,completed,36.0,3.6,32.4,2.35,8.0,42.75,Square Online,Online Store
+ORD-10261,CUST-0279,2026-01-16 22:05:00,completed,123.0,12.3,110.7,8.03,0.0,118.73,Apple Pay,Online Store
+ORD-10264,CUST-0381,2026-01-17 07:05:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Online Store
+ORD-10266,CUST-0242,2026-01-18 15:01:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square Online,Online Store
+ORD-10268,CUST-0094,2026-01-18 17:28:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square POS,Pop-up / Event POS
+ORD-10269,CUST-0173,2026-01-19 00:13:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10271,CUST-0248,2026-01-19 09:37:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square POS,Online Store
+ORD-10272,CUST-0424,2026-01-21 03:50:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Square Online,Online Store
+ORD-10273,CUST-0437,2026-01-21 17:15:00,completed,28.0,2.8,25.2,1.83,8.0,35.03,Square Online,Online Store
+ORD-10277,CUST-0328,2026-01-23 21:05:00,completed,292.0,0.0,292.0,21.17,0.0,313.17,Square POS,Pop-up / Event POS
+ORD-10036,CUST-0068,2026-01-23 22:25:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square Online,Online Store
+ORD-10278,CUST-0408,2026-01-24 16:28:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square Online,Online Store
+ORD-10279,CUST-0215,2026-01-24 18:46:00,completed,198.0,0.0,198.0,14.35,0.0,212.35,Square POS,Pop-up / Event POS
+ORD-10280,CUST-0182,2026-01-24 19:31:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square POS,Pop-up / Event POS
+ORD-10127,CUST-0120,2026-01-24 22:09:00,completed,129.0,12.9,116.1,8.42,0.0,124.52,Credit Card,Online Store
+ORD-10282,CUST-0398,2026-01-25 04:31:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square Online,Online Store
+ORD-10283,CUST-0229,2026-01-25 12:14:00,completed,88.0,8.8,79.2,5.74,8.0,92.94,Square Online,Online Store
+ORD-10082,CUST-0251,2026-01-25 18:53:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Square POS,Pop-up / Event POS
+ORD-10284,CUST-0243,2026-01-25 21:25:00,completed,105.0,0.0,105.0,7.61,0.0,112.61,Apple Pay,Online Store
+ORD-10205,CUST-0149,2026-01-26 01:00:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square Online,Online Store
+ORD-10286,CUST-0427,2026-01-26 01:51:00,completed,105.0,10.5,94.5,6.85,0.0,101.35,Square Online,Online Store
+ORD-10287,CUST-0363,2026-01-26 09:28:00,completed,88.0,8.8,79.2,5.74,8.0,92.94,Square Online,Online Store
+ORD-10075,CUST-0401,2026-01-26 13:01:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Apple Pay,Online Store
+ORD-10288,CUST-0105,2026-01-26 17:38:00,completed,110.0,0.0,110.0,7.97,0.0,117.97,Square POS,Pop-up / Event POS
+ORD-10077,CUST-0156,2026-01-26 19:34:00,refunded,75.0,0.0,75.0,5.44,8.0,88.44,Square Online,Online Store
+ORD-10291,CUST-0225,2026-01-27 01:39:00,completed,109.0,0.0,109.0,7.9,0.0,116.9,Square Online,Online Store
+ORD-10102,CUST-0353,2026-01-27 09:26:00,completed,88.0,8.8,79.2,5.74,8.0,92.94,Square Online,Online Store
+ORD-10292,CUST-0275,2026-01-27 15:57:00,completed,430.0,0.0,430.0,31.17,0.0,461.17,Square Online,Online Store
+ORD-10293,CUST-0207,2026-01-27 18:15:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Square POS,Online Store
+ORD-10295,CUST-0077,2026-01-28 08:28:00,completed,167.0,0.0,167.0,12.11,0.0,179.11,Square Online,Online Store
+ORD-10296,CUST-0230,2026-01-28 18:59:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square Online,Online Store
+ORD-10297,CUST-0191,2026-01-29 01:31:00,completed,183.0,0.0,183.0,13.27,0.0,196.27,Apple Pay,Online Store
+ORD-10298,CUST-0190,2026-01-29 03:10:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Square Online,Online Store
+ORD-10200,CUST-0336,2026-01-29 11:21:00,completed,163.0,16.3,146.7,10.64,0.0,157.34,Square POS,Pop-up / Event POS
+ORD-10299,CUST-0357,2026-01-29 13:10:00,completed,232.0,0.0,232.0,16.82,0.0,248.82,Apple Pay,Online Store
+ORD-10301,CUST-0448,2026-01-29 22:04:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square Online,Online Store
+ORD-10302,CUST-0247,2026-01-30 03:03:00,completed,116.0,0.0,116.0,8.41,0.0,124.41,Apple Pay,Online Store
+ORD-10132,CUST-0103,2026-01-31 00:55:00,completed,70.0,0.0,70.0,5.07,8.0,83.07,Square Online,Online Store
+ORD-10303,CUST-0358,2026-01-31 06:31:00,completed,114.0,0.0,114.0,8.26,0.0,122.26,Square Online,Online Store
+ORD-10304,CUST-0087,2026-01-31 22:07:00,cancelled,108.0,0.0,108.0,7.83,0.0,115.83,Square POS,Pop-up / Event POS
+ORD-10305,CUST-0101,2026-02-01 04:18:00,completed,75.0,7.5,67.5,4.89,8.0,80.39,Apple Pay,Online Store
+ORD-10306,CUST-0233,2026-02-01 19:51:00,completed,62.0,0.0,62.0,4.5,8.0,74.5,Square Online,Online Store
+ORD-10308,CUST-0283,2026-02-02 21:47:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10309,CUST-0119,2026-02-03 00:17:00,completed,139.0,0.0,139.0,10.08,0.0,149.08,Square POS,Pop-up / Event POS
+ORD-10310,CUST-0314,2026-02-03 02:50:00,refunded,205.0,20.5,184.5,13.38,0.0,197.88,Apple Pay,Online Store
+ORD-10311,CUST-0368,2026-02-03 07:08:00,completed,70.0,0.0,70.0,5.07,8.0,83.07,Square POS,Online Store
+ORD-10312,CUST-0199,2026-02-03 09:19:00,completed,810.0,0.0,810.0,58.72,0.0,868.72,Square Online,Online Store
+ORD-10314,CUST-0249,2026-02-04 05:56:00,completed,183.0,0.0,183.0,13.27,0.0,196.27,Square Online,Online Store
+ORD-10317,CUST-0311,2026-02-04 10:39:00,completed,42.0,4.2,37.8,2.74,8.0,48.54,Credit Card,Online Store
+ORD-10318,CUST-0322,2026-02-04 13:46:00,completed,122.0,0.0,122.0,8.84,0.0,130.84,Square Online,Online Store
+ORD-10319,CUST-0002,2026-02-04 14:35:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10321,CUST-0109,2026-02-04 16:40:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square Online,Online Store
+ORD-10092,CUST-0015,2026-02-05 03:58:00,completed,127.0,12.7,114.3,8.29,0.0,122.59,Square Online,Online Store
+ORD-10323,CUST-0088,2026-02-05 19:42:00,completed,66.0,6.6,59.4,4.31,8.0,71.71,Square Online,Online Store
+ORD-10225,CUST-0308,2026-02-05 20:05:00,completed,185.0,0.0,185.0,13.41,0.0,198.41,Shop Pay,Online Store
+ORD-10325,CUST-0439,2026-02-05 22:03:00,completed,176.0,0.0,176.0,12.76,0.0,188.76,Square POS,Online Store
+ORD-10328,CUST-0064,2026-02-06 15:10:00,completed,176.0,17.6,158.4,11.48,0.0,169.88,Shop Pay,Online Store
+ORD-10329,CUST-0396,2026-02-06 21:25:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Apple Pay,Online Store
+ORD-10330,CUST-0138,2026-02-07 06:03:00,completed,143.0,0.0,143.0,10.37,0.0,153.37,Square Online,Online Store
+ORD-10331,CUST-0300,2026-02-07 08:44:00,completed,88.0,8.8,79.2,5.74,8.0,92.94,Square POS,Online Store
+ORD-10332,CUST-0405,2026-02-07 10:54:00,completed,42.0,4.2,37.8,2.74,8.0,48.54,Square POS,Pop-up / Event POS
+ORD-10334,CUST-0370,2026-02-07 13:11:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square Online,Online Store
+ORD-10335,CUST-0429,2026-02-08 06:06:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10337,CUST-0030,2026-02-08 15:52:00,completed,233.0,0.0,233.0,16.89,0.0,249.89,Square POS,Online Store
+ORD-10338,CUST-0226,2026-02-08 21:35:00,completed,95.0,9.5,85.5,6.2,8.0,99.7,Square POS,Pop-up / Event POS
+ORD-10151,CUST-0113,2026-02-10 00:13:00,cancelled,78.0,0.0,78.0,5.65,8.0,91.65,Credit Card,Online Store
+ORD-10340,CUST-0063,2026-02-10 03:09:00,completed,115.0,0.0,115.0,8.34,0.0,123.34,Apple Pay,Online Store
+ORD-10341,CUST-0337,2026-02-10 06:38:00,completed,229.0,0.0,229.0,16.6,0.0,245.6,Apple Pay,Online Store
+ORD-10112,CUST-0428,2026-02-10 17:29:00,completed,349.0,0.0,349.0,25.3,0.0,374.3,Credit Card,Online Store
+ORD-10168,CUST-0197,2026-02-11 08:37:00,completed,105.0,10.5,94.5,6.85,0.0,101.35,Apple Pay,Online Store
+ORD-10342,CUST-0137,2026-02-11 14:06:00,completed,137.0,0.0,137.0,9.93,0.0,146.93,Apple Pay,Online Store
+ORD-10343,CUST-0018,2026-02-13 08:27:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Square Online,Online Store
+ORD-10172,CUST-0252,2026-02-14 08:59:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Apple Pay,Online Store
+ORD-10345,CUST-0260,2026-02-14 22:14:00,completed,123.0,12.3,110.7,8.03,0.0,118.73,Square Online,Online Store
+ORD-10177,CUST-0028,2026-02-16 08:48:00,refunded,139.0,0.0,139.0,10.08,0.0,149.08,Square Online,Online Store
+ORD-10239,CUST-0026,2026-02-16 21:49:00,completed,176.0,0.0,176.0,12.76,0.0,188.76,Square POS,Online Store
+ORD-10346,CUST-0367,2026-02-16 22:36:00,completed,211.0,0.0,211.0,15.3,0.0,226.3,Apple Pay,Online Store
+ORD-10349,CUST-0108,2026-02-17 04:47:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Credit Card,Online Store
+ORD-10350,CUST-0014,2026-02-17 09:40:00,completed,70.0,0.0,70.0,5.07,8.0,83.07,Square Online,Online Store
+ORD-10351,CUST-0447,2026-02-18 06:21:00,completed,193.0,19.3,173.7,12.59,0.0,186.29,Square POS,Pop-up / Event POS
+ORD-10352,CUST-0341,2026-02-18 11:31:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square POS,Pop-up / Event POS
+ORD-10353,CUST-0212,2026-02-18 20:28:00,completed,101.0,0.0,101.0,7.32,0.0,108.32,Square Online,Online Store
+ORD-10252,CUST-0324,2026-02-19 01:01:00,completed,219.0,0.0,219.0,15.88,0.0,234.88,Square Online,Online Store
+ORD-10354,CUST-0046,2026-02-20 00:58:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square POS,Online Store
+ORD-10245,CUST-0394,2026-02-20 08:14:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square Online,Online Store
+ORD-10267,CUST-0242,2026-02-20 16:01:00,completed,200.0,0.0,200.0,14.5,0.0,214.5,Square POS,Online Store
+ORD-10356,CUST-0224,2026-02-20 21:18:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square Online,Online Store
+ORD-10355,CUST-0193,2026-02-20 22:46:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Credit Card,Online Store
+ORD-10141,CUST-0294,2026-02-21 03:56:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Square Online,Online Store
+ORD-10357,CUST-0133,2026-02-21 15:16:00,completed,183.0,0.0,183.0,13.27,0.0,196.27,Square Online,Online Store
+ORD-10358,CUST-0140,2026-02-21 21:23:00,completed,64.0,0.0,64.0,4.64,8.0,76.64,Square Online,Online Store
+ORD-10181,CUST-0382,2026-02-22 09:21:00,completed,150.0,15.0,135.0,9.79,0.0,144.79,Square POS,Online Store
+ORD-10265,CUST-0381,2026-02-22 10:05:00,completed,116.0,0.0,116.0,8.41,0.0,124.41,Apple Pay,Online Store
+ORD-10359,CUST-0124,2026-02-22 12:09:00,completed,150.0,0.0,150.0,10.88,0.0,160.88,Square POS,Pop-up / Event POS
+ORD-10360,CUST-0378,2026-02-22 16:38:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square POS,Pop-up / Event POS
+ORD-10361,CUST-0285,2026-02-22 23:11:00,completed,103.0,0.0,103.0,7.47,0.0,110.47,Square POS,Pop-up / Event POS
+ORD-10362,CUST-0206,2026-02-23 00:02:00,completed,60.0,0.0,60.0,4.35,8.0,72.35,Square Online,Online Store
+ORD-10363,CUST-0333,2026-02-23 03:42:00,completed,237.0,0.0,237.0,17.18,0.0,254.18,Square POS,Pop-up / Event POS
+ORD-10366,CUST-0304,2026-02-23 05:20:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Square Online,Online Store
+ORD-10367,CUST-0086,2026-02-23 12:00:00,completed,292.0,0.0,292.0,21.17,0.0,313.17,Credit Card,Online Store
+ORD-10368,CUST-0256,2026-02-23 13:00:00,completed,183.0,0.0,183.0,13.27,0.0,196.27,Apple Pay,Online Store
+ORD-10369,CUST-0287,2026-02-23 15:58:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Apple Pay,Online Store
+ORD-10370,CUST-0387,2026-02-23 19:10:00,completed,68.0,6.8,61.2,4.44,8.0,73.64,Square POS,Online Store
+ORD-10064,CUST-0244,2026-02-24 01:04:00,completed,103.0,0.0,103.0,7.47,0.0,110.47,Square Online,Online Store
+ORD-10373,CUST-0432,2026-02-25 05:59:00,completed,137.0,13.7,123.3,8.94,0.0,132.24,Apple Pay,Online Store
+ORD-10147,CUST-0092,2026-02-25 08:57:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Apple Pay,Online Store
+ORD-10158,CUST-0107,2026-02-25 09:52:00,completed,88.0,8.8,79.2,5.74,8.0,92.94,Square Online,Online Store
+ORD-10375,CUST-0033,2026-02-25 14:14:00,completed,164.0,16.4,147.6,10.7,0.0,158.3,Apple Pay,Online Store
+ORD-10377,CUST-0286,2026-02-26 17:52:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Apple Pay,Online Store
+ORD-10379,CUST-0390,2026-02-27 11:01:00,completed,110.0,0.0,110.0,7.97,0.0,117.97,Square Online,Online Store
+ORD-10197,CUST-0039,2026-02-27 13:46:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Square POS,Online Store
+ORD-10380,CUST-0348,2026-02-27 16:19:00,refunded,44.0,0.0,44.0,3.19,8.0,55.19,Apple Pay,Online Store
+ORD-10381,CUST-0037,2026-02-27 17:53:00,completed,141.0,0.0,141.0,10.22,0.0,151.22,Square Online,Online Store
+ORD-10382,CUST-0320,2026-02-27 19:23:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square Online,Online Store
+ORD-10383,CUST-0413,2026-02-28 08:32:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Apple Pay,Online Store
+ORD-10384,CUST-0083,2026-02-28 19:37:00,completed,178.0,0.0,178.0,12.9,0.0,190.9,Square POS,Pop-up / Event POS
+ORD-10387,CUST-0209,2026-03-01 01:00:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square Online,Online Store
+ORD-10391,CUST-0297,2026-03-01 02:16:00,completed,129.0,0.0,129.0,9.35,0.0,138.35,Square Online,Online Store
+ORD-10392,CUST-0305,2026-03-01 10:56:00,completed,123.0,0.0,123.0,8.92,0.0,131.92,Square Online,Online Store
+ORD-10320,CUST-0002,2026-03-01 14:35:00,refunded,137.0,13.7,123.3,8.94,0.0,132.24,Square Online,Online Store
+ORD-10393,CUST-0024,2026-03-02 08:49:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10396,CUST-0425,2026-03-02 09:18:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Square Online,Online Store
+ORD-10394,CUST-0296,2026-03-02 09:30:00,cancelled,172.0,17.2,154.8,11.22,0.0,166.02,Square POS,Online Store
+ORD-10397,CUST-0385,2026-03-02 15:39:00,completed,116.0,0.0,116.0,8.41,0.0,124.41,Square Online,Online Store
+ORD-10242,CUST-0053,2026-03-03 01:45:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Square Online,Online Store
+ORD-10398,CUST-0263,2026-03-03 07:04:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Square POS,Pop-up / Event POS
+ORD-10185,CUST-0008,2026-03-03 09:05:00,completed,320.0,0.0,320.0,23.2,0.0,343.2,Apple Pay,Online Store
+ORD-10399,CUST-0421,2026-03-03 22:17:00,completed,141.0,0.0,141.0,10.22,0.0,151.22,Square POS,Pop-up / Event POS
+ORD-10401,CUST-0349,2026-03-04 07:38:00,completed,34.0,3.4,30.6,2.22,8.0,40.82,Apple Pay,Online Store
+ORD-10402,CUST-0169,2026-03-06 01:33:00,completed,170.0,17.0,153.0,11.09,0.0,164.09,Apple Pay,Online Store
+ORD-10403,CUST-0335,2026-03-06 08:12:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square POS,Online Store
+ORD-10214,CUST-0125,2026-03-06 14:35:00,completed,264.0,0.0,264.0,19.14,0.0,283.14,Square POS,Online Store
+ORD-10202,CUST-0073,2026-03-07 15:39:00,completed,271.0,27.1,243.9,17.68,0.0,261.58,Square POS,Online Store
+ORD-10404,CUST-0143,2026-03-07 19:23:00,completed,56.0,0.0,56.0,4.06,8.0,68.06,Apple Pay,Online Store
+ORD-10405,CUST-0196,2026-03-08 01:18:00,completed,180.0,0.0,180.0,13.05,0.0,193.05,Apple Pay,Online Store
+ORD-10313,CUST-0199,2026-03-08 06:19:00,completed,271.0,0.0,271.0,19.65,0.0,290.65,Square POS,Online Store
+ORD-10406,CUST-0362,2026-03-08 12:52:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Shop Pay,Online Store
+ORD-10407,CUST-0051,2026-03-08 20:27:00,completed,228.0,0.0,228.0,16.53,0.0,244.53,Apple Pay,Online Store
+ORD-10130,CUST-0262,2026-03-08 22:39:00,completed,203.0,20.3,182.7,13.25,0.0,195.95,Square Online,Online Store
+ORD-10408,CUST-0200,2026-03-09 02:09:00,completed,137.0,0.0,137.0,9.93,0.0,146.93,Apple Pay,Online Store
+ORD-10249,CUST-0091,2026-03-09 05:13:00,completed,470.0,0.0,470.0,34.07,0.0,504.07,Square POS,Online Store
+ORD-10409,CUST-0217,2026-03-09 06:19:00,completed,84.0,8.4,75.6,5.48,8.0,89.08,Square Online,Online Store
+ORD-10410,CUST-0403,2026-03-09 16:48:00,refunded,26.0,0.0,26.0,1.88,8.0,35.88,Square Online,Online Store
+ORD-10411,CUST-0316,2026-03-10 00:43:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10083,CUST-0251,2026-03-10 16:53:00,completed,48.0,0.0,48.0,3.48,8.0,59.48,Square POS,Pop-up / Event POS
+ORD-10326,CUST-0439,2026-03-11 00:03:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Online Store
+ORD-10412,CUST-0116,2026-03-11 00:32:00,completed,90.0,0.0,90.0,6.52,0.0,96.52,Shop Pay,Online Store
+ORD-10413,CUST-0027,2026-03-11 04:50:00,completed,56.0,0.0,56.0,4.06,8.0,68.06,Square Online,Online Store
+ORD-10414,CUST-0058,2026-03-11 08:18:00,completed,281.0,0.0,281.0,20.37,0.0,301.37,Square POS,Pop-up / Event POS
+ORD-10417,CUST-0331,2026-03-11 09:13:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Credit Card,Online Store
+ORD-10421,CUST-0013,2026-03-11 09:46:00,refunded,52.0,0.0,52.0,3.77,8.0,63.77,Square Online,Online Store
+ORD-10420,CUST-0181,2026-03-11 09:55:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square POS,Pop-up / Event POS
+ORD-10422,CUST-0052,2026-03-11 13:36:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Apple Pay,Online Store
+ORD-10307,CUST-0233,2026-03-11 18:51:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Apple Pay,Online Store
+ORD-10274,CUST-0437,2026-03-12 14:15:00,completed,163.0,0.0,163.0,11.82,0.0,174.82,Square Online,Online Store
+ORD-10281,CUST-0182,2026-03-12 22:31:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square Online,Online Store
+ORD-10262,CUST-0279,2026-03-13 02:05:00,completed,183.0,18.3,164.7,11.94,0.0,176.64,Square POS,Pop-up / Event POS
+ORD-10190,CUST-0201,2026-03-13 11:09:00,completed,101.0,0.0,101.0,7.32,0.0,108.32,Credit Card,Online Store
+ORD-10423,CUST-0388,2026-03-13 14:16:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square POS,Online Store
+ORD-10226,CUST-0308,2026-03-14 00:05:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Apple Pay,Online Store
+ORD-10424,CUST-0188,2026-03-14 01:19:00,completed,170.0,0.0,170.0,12.32,0.0,182.32,Square Online,Online Store
+ORD-10236,CUST-0374,2026-03-14 16:12:00,completed,95.0,9.5,85.5,6.2,8.0,99.7,Shop Pay,Online Store
+ORD-10425,CUST-0355,2026-03-14 22:34:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square Online,Online Store
+ORD-10427,CUST-0070,2026-03-15 09:45:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Apple Pay,Online Store
+ORD-10428,CUST-0001,2026-03-15 12:46:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10289,CUST-0105,2026-03-15 13:38:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square Online,Online Store
+ORD-10429,CUST-0152,2026-03-15 14:58:00,completed,36.0,3.6,32.4,2.35,8.0,42.75,Apple Pay,Online Store
+ORD-10285,CUST-0243,2026-03-15 20:25:00,completed,121.0,0.0,121.0,8.77,0.0,129.77,Square POS,Online Store
+ORD-10430,CUST-0433,2026-03-16 01:00:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Pop-up / Event POS
+ORD-10431,CUST-0257,2026-03-16 15:24:00,completed,285.0,0.0,285.0,20.66,0.0,305.66,Square POS,Pop-up / Event POS
+ORD-10432,CUST-0369,2026-03-17 11:13:00,completed,75.0,7.5,67.5,4.89,8.0,80.39,Square POS,Pop-up / Event POS
+ORD-10435,CUST-0184,2026-03-19 00:40:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10436,CUST-0364,2026-03-19 03:49:00,completed,141.0,14.1,126.9,9.2,0.0,136.1,Square Online,Online Store
+ORD-10437,CUST-0144,2026-03-19 05:53:00,refunded,209.0,0.0,209.0,15.15,0.0,224.15,Square Online,Online Store
+ORD-10439,CUST-0003,2026-03-19 13:11:00,completed,116.0,0.0,116.0,8.41,0.0,124.41,Square POS,Pop-up / Event POS
+ORD-10441,CUST-0250,2026-03-20 05:52:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square Online,Online Store
+ORD-10442,CUST-0344,2026-03-20 14:34:00,completed,75.0,7.5,67.5,4.89,8.0,80.39,Apple Pay,Online Store
+ORD-10444,CUST-0167,2026-03-20 20:36:00,completed,130.0,0.0,130.0,9.42,0.0,139.42,Square Online,Online Store
+ORD-10446,CUST-0334,2026-03-21 02:46:00,completed,138.0,0.0,138.0,10.0,0.0,148.0,Square Online,Online Store
+ORD-10447,CUST-0415,2026-03-21 09:02:00,completed,144.0,0.0,144.0,10.44,0.0,154.44,Square POS,Online Store
+ORD-10449,CUST-0016,2026-03-21 11:38:00,completed,137.0,0.0,137.0,9.93,0.0,146.93,Apple Pay,Online Store
+ORD-10322,CUST-0109,2026-03-21 18:40:00,completed,189.0,0.0,189.0,13.7,0.0,202.7,Apple Pay,Online Store
+ORD-10294,CUST-0207,2026-03-21 21:15:00,completed,26.0,2.6,23.4,1.7,8.0,33.1,Square Online,Online Store
+ORD-10450,CUST-0271,2026-03-22 03:25:00,completed,115.0,0.0,115.0,8.34,0.0,123.34,Square POS,Pop-up / Event POS
+ORD-10229,CUST-0162,2026-03-22 04:31:00,completed,105.0,0.0,105.0,7.61,0.0,112.61,Square Online,Online Store
+ORD-10452,CUST-0198,2026-03-22 07:33:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Pop-up / Event POS
+ORD-10453,CUST-0313,2026-03-22 10:49:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Apple Pay,Online Store
+ORD-10456,CUST-0075,2026-03-22 16:40:00,completed,110.0,11.0,99.0,7.18,0.0,106.18,Credit Card,Online Store
+ORD-10458,CUST-0159,2026-03-23 07:07:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Apple Pay,Online Store
+ORD-10459,CUST-0096,2026-03-23 09:01:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Square Online,Online Store
+ORD-10460,CUST-0097,2026-03-23 12:23:00,refunded,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Pop-up / Event POS
+ORD-10461,CUST-0442,2026-03-23 17:45:00,completed,246.0,0.0,246.0,17.83,0.0,263.83,Square Online,Online Store
+ORD-10240,CUST-0026,2026-03-23 18:49:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Apple Pay,Online Store
+ORD-10462,CUST-0234,2026-03-23 22:01:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Apple Pay,Online Store
+ORD-10463,CUST-0446,2026-03-24 02:18:00,completed,301.0,0.0,301.0,21.82,0.0,322.82,Square POS,Online Store
+ORD-10464,CUST-0095,2026-03-24 06:51:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square Online,Online Store
+ORD-10217,CUST-0099,2026-03-24 22:03:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square POS,Online Store
+ORD-10465,CUST-0259,2026-03-25 01:20:00,completed,130.0,13.0,117.0,8.48,0.0,125.48,Square Online,Online Store
+ORD-10466,CUST-0315,2026-03-25 02:13:00,completed,110.0,0.0,110.0,7.97,0.0,117.97,Apple Pay,Online Store
+ORD-10467,CUST-0303,2026-03-25 08:39:00,completed,72.0,7.2,64.8,4.7,8.0,77.5,Credit Card,Online Store
+ORD-10468,CUST-0218,2026-03-25 23:40:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square POS,Online Store
+ORD-10469,CUST-0289,2026-03-26 14:50:00,completed,131.0,0.0,131.0,9.5,0.0,140.5,Square Online,Online Store
+ORD-10270,CUST-0173,2026-03-28 00:13:00,completed,295.0,29.5,265.5,19.25,0.0,284.75,Apple Pay,Online Store
+ORD-10470,CUST-0431,2026-03-28 01:36:00,completed,315.0,0.0,315.0,22.84,0.0,337.84,Square Online,Online Store
+ORD-10471,CUST-0449,2026-03-28 03:32:00,completed,130.0,13.0,117.0,8.48,0.0,125.48,Square POS,Pop-up / Event POS
+ORD-10472,CUST-0238,2026-03-28 05:02:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Square Online,Online Store
+ORD-10473,CUST-0330,2026-03-29 05:53:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Square Online,Online Store
+ORD-10475,CUST-0142,2026-03-29 08:47:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10198,CUST-0039,2026-03-29 10:46:00,completed,28.0,2.8,25.2,1.83,8.0,35.03,Shop Pay,Online Store
+ORD-10477,CUST-0059,2026-03-29 13:18:00,completed,64.0,6.4,57.6,4.18,8.0,69.78,Square Online,Online Store
+ORD-10478,CUST-0402,2026-03-29 15:09:00,completed,124.0,0.0,124.0,8.99,0.0,132.99,Square Online,Online Store
+ORD-10479,CUST-0221,2026-03-31 03:01:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Apple Pay,Online Store
+ORD-10300,CUST-0357,2026-03-31 11:10:00,refunded,26.0,0.0,26.0,1.88,8.0,35.88,Apple Pay,Online Store
+ORD-10480,CUST-0265,2026-03-31 21:48:00,completed,165.0,0.0,165.0,11.96,0.0,176.96,Square POS,Online Store
+ORD-10481,CUST-0306,2026-03-31 21:52:00,completed,70.0,0.0,70.0,5.07,8.0,83.07,Square Online,Online Store
+ORD-10482,CUST-0351,2026-03-31 22:18:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Apple Pay,Online Store
+ORD-10484,CUST-0293,2026-04-01 00:59:00,completed,157.0,0.0,157.0,11.38,0.0,168.38,Square POS,Pop-up / Event POS
+ORD-10485,CUST-0393,2026-04-02 11:30:00,completed,100.0,0.0,100.0,7.25,0.0,107.25,Square Online,Online Store
+ORD-10487,CUST-0141,2026-04-02 14:13:00,completed,210.0,0.0,210.0,15.22,0.0,225.22,Square POS,Pop-up / Event POS
+ORD-10256,CUST-0093,2026-04-02 15:17:00,completed,105.0,0.0,105.0,7.61,0.0,112.61,Square Online,Online Store
+ORD-10347,CUST-0367,2026-04-02 20:36:00,completed,368.0,0.0,368.0,26.68,0.0,394.68,Square Online,Online Store
+ORD-10488,CUST-0274,2026-04-03 17:57:00,completed,150.0,0.0,150.0,10.88,0.0,160.88,Square POS,Pop-up / Event POS
+ORD-10491,CUST-0361,2026-04-05 10:43:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square Online,Online Store
+ORD-10385,CUST-0083,2026-04-05 16:37:00,completed,176.0,0.0,176.0,12.76,0.0,188.76,Square Online,Online Store
+ORD-10388,CUST-0209,2026-04-06 04:00:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Square POS,Pop-up / Event POS
+ORD-10493,CUST-0325,2026-04-06 10:20:00,completed,171.0,0.0,171.0,12.4,0.0,183.4,Square Online,Online Store
+ORD-10376,CUST-0033,2026-04-06 17:14:00,completed,264.0,0.0,264.0,19.14,0.0,283.14,Square POS,Online Store
+ORD-10494,CUST-0228,2026-04-07 01:13:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Credit Card,Online Store
+ORD-10495,CUST-0276,2026-04-07 03:21:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square Online,Online Store
+ORD-10336,CUST-0429,2026-04-07 05:06:00,cancelled,105.0,0.0,105.0,7.61,0.0,112.61,Apple Pay,Online Store
+ORD-10159,CUST-0107,2026-04-07 13:52:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Online Store
+ORD-10374,CUST-0432,2026-04-09 01:59:00,completed,84.0,0.0,84.0,6.09,8.0,98.09,Square Online,Online Store
+ORD-10497,CUST-0145,2026-04-09 09:50:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Pop-up / Event POS
+ORD-10498,CUST-0177,2026-04-09 14:34:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Credit Card,Online Store
+ORD-10500,CUST-0022,2026-04-09 15:57:00,completed,198.0,19.8,178.2,12.92,0.0,191.12,Apple Pay,Online Store
+ORD-10501,CUST-0072,2026-04-09 22:56:00,completed,247.0,0.0,247.0,17.91,0.0,264.91,Square Online,Online Store
+ORD-10133,CUST-0103,2026-04-09 23:55:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Pop-up / Event POS
+ORD-10502,CUST-0134,2026-04-10 09:45:00,completed,176.0,0.0,176.0,12.76,0.0,188.76,Credit Card,Online Store
+ORD-10503,CUST-0048,2026-04-10 10:46:00,refunded,115.0,11.5,103.5,7.5,0.0,111.0,Square Online,Online Store
+ORD-10506,CUST-0416,2026-04-10 19:25:00,completed,134.0,0.0,134.0,9.71,0.0,143.71,Credit Card,Online Store
+ORD-10395,CUST-0296,2026-04-11 12:30:00,refunded,335.0,0.0,335.0,24.29,0.0,359.29,Apple Pay,Online Store
+ORD-10507,CUST-0410,2026-04-12 01:08:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Square POS,Online Store
+ORD-10508,CUST-0342,2026-04-12 02:28:00,refunded,285.0,0.0,285.0,20.66,0.0,305.66,Square Online,Online Store
+ORD-10509,CUST-0411,2026-04-12 06:39:00,completed,179.0,0.0,179.0,12.98,0.0,191.98,Square Online,Online Store
+ORD-10065,CUST-0244,2026-04-13 04:04:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square Online,Online Store
+ORD-10344,CUST-0018,2026-04-13 06:27:00,completed,126.0,0.0,126.0,9.13,0.0,135.13,Square Online,Online Store
+ORD-10315,CUST-0249,2026-04-14 09:56:00,completed,110.0,11.0,99.0,7.18,0.0,106.18,Square Online,Online Store
+ORD-10512,CUST-0049,2026-04-14 18:03:00,completed,176.0,0.0,176.0,12.76,0.0,188.76,Square POS,Pop-up / Event POS
+ORD-10333,CUST-0405,2026-04-15 10:54:00,completed,345.0,34.5,310.5,22.51,0.0,333.01,Square Online,Online Store
+ORD-10513,CUST-0183,2026-04-16 00:55:00,completed,400.0,0.0,400.0,29.0,0.0,429.0,Credit Card,Online Store
+ORD-10515,CUST-0299,2026-04-16 06:59:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Square Online,Online Store
+ORD-10516,CUST-0010,2026-04-16 11:52:00,refunded,95.0,0.0,95.0,6.89,0.0,101.89,Shop Pay,Online Store
+ORD-10517,CUST-0438,2026-04-17 12:36:00,completed,130.0,0.0,130.0,9.42,0.0,139.42,Square Online,Online Store
+ORD-10518,CUST-0347,2026-04-17 14:29:00,completed,252.0,0.0,252.0,18.27,0.0,270.27,Square Online,Online Store
+ORD-10519,CUST-0268,2026-04-17 16:23:00,completed,248.0,0.0,248.0,17.98,0.0,265.98,Credit Card,Online Store
+ORD-10520,CUST-0089,2026-04-19 09:35:00,completed,28.0,2.8,25.2,1.83,8.0,35.03,Square Online,Online Store
+ORD-10521,CUST-0123,2026-04-19 12:52:00,completed,144.0,0.0,144.0,10.44,0.0,154.44,Apple Pay,Online Store
+ORD-10324,CUST-0088,2026-04-19 15:42:00,completed,219.0,0.0,219.0,15.88,0.0,234.88,Square Online,Online Store
+ORD-10523,CUST-0148,2026-04-19 18:56:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Square POS,Online Store
+ORD-10522,CUST-0332,2026-04-19 19:23:00,completed,190.0,0.0,190.0,13.77,0.0,203.77,Square Online,Online Store
+ORD-10203,CUST-0073,2026-04-20 12:39:00,completed,28.0,2.8,25.2,1.83,8.0,35.03,Credit Card,Online Store
+ORD-10448,CUST-0415,2026-04-21 13:02:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Apple Pay,Online Store
+ORD-10524,CUST-0343,2026-04-21 23:38:00,completed,121.0,0.0,121.0,8.77,0.0,129.77,Square Online,Online Store
+ORD-10525,CUST-0414,2026-04-22 04:58:00,completed,82.0,0.0,82.0,5.94,8.0,95.94,Apple Pay,Online Store
+ORD-10454,CUST-0313,2026-04-22 06:49:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Online Store
+ORD-10526,CUST-0074,2026-04-24 01:01:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Apple Pay,Online Store
+ORD-10528,CUST-0383,2026-04-24 23:52:00,completed,75.0,7.5,67.5,4.89,8.0,80.39,Apple Pay,Online Store
+ORD-10339,CUST-0226,2026-04-25 23:35:00,completed,62.0,0.0,62.0,4.5,8.0,74.5,Square Online,Online Store
+ORD-10530,CUST-0062,2026-04-26 16:32:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Square POS,Pop-up / Event POS
+ORD-10531,CUST-0404,2026-04-27 04:29:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square Online,Online Store
+ORD-10532,CUST-0277,2026-04-28 10:07:00,completed,196.0,0.0,196.0,14.21,0.0,210.21,Square POS,Online Store
+ORD-10534,CUST-0131,2026-04-28 11:41:00,completed,34.0,3.4,30.6,2.22,8.0,40.82,Credit Card,Online Store
+ORD-10536,CUST-0278,2026-04-28 12:09:00,completed,190.0,0.0,190.0,13.77,0.0,203.77,Square Online,Online Store
+ORD-10537,CUST-0153,2026-04-29 01:02:00,completed,115.0,11.5,103.5,7.5,0.0,111.0,Square Online,Online Store
+ORD-10538,CUST-0267,2026-04-29 11:13:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10543,CUST-0406,2026-04-29 20:32:00,completed,176.0,17.6,158.4,11.48,0.0,169.88,Apple Pay,Online Store
+ORD-10541,CUST-0360,2026-04-29 20:41:00,completed,189.0,0.0,189.0,13.7,0.0,202.7,Apple Pay,Online Store
+ORD-10544,CUST-0227,2026-04-30 03:50:00,completed,84.0,0.0,84.0,6.09,8.0,98.09,Square Online,Online Store
+ORD-10275,CUST-0437,2026-04-30 17:15:00,completed,115.0,11.5,103.5,7.5,0.0,111.0,Shop Pay,Online Store
+ORD-10545,CUST-0066,2026-05-01 18:24:00,completed,105.0,0.0,105.0,7.61,0.0,112.61,Apple Pay,Online Store
+ORD-10546,CUST-0282,2026-05-02 18:24:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Shop Pay,Online Store
+ORD-10547,CUST-0235,2026-05-03 12:36:00,completed,102.0,10.2,91.8,6.66,0.0,98.46,Square Online,Online Store
+ORD-10327,CUST-0439,2026-05-03 21:03:00,completed,212.0,21.2,190.8,13.83,0.0,204.63,Apple Pay,Online Store
+ORD-10549,CUST-0007,2026-05-03 23:26:00,completed,176.0,0.0,176.0,12.76,0.0,188.76,Credit Card,Online Store
+ORD-10364,CUST-0333,2026-05-04 07:42:00,completed,189.0,0.0,189.0,13.7,0.0,202.7,Square Online,Online Store
+ORD-10440,CUST-0003,2026-05-04 10:11:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Online Store
+ORD-10348,CUST-0367,2026-05-04 16:36:00,completed,305.0,0.0,305.0,22.11,0.0,327.11,Square Online,Online Store
+ORD-10426,CUST-0355,2026-05-05 01:34:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square Online,Online Store
+ORD-10550,CUST-0055,2026-05-05 14:58:00,completed,70.0,0.0,70.0,5.07,8.0,83.07,Credit Card,Online Store
+ORD-10552,CUST-0179,2026-05-05 22:20:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square POS,Online Store
+ORD-10554,CUST-0372,2026-05-06 04:30:00,completed,94.0,0.0,94.0,6.81,0.0,100.81,Square POS,Pop-up / Event POS
+ORD-10371,CUST-0387,2026-05-06 16:10:00,completed,147.0,0.0,147.0,10.66,0.0,157.66,Square POS,Online Store
+ORD-10483,CUST-0351,2026-05-07 18:18:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Apple Pay,Online Store
+ORD-10555,CUST-0309,2026-05-08 11:15:00,completed,183.0,0.0,183.0,13.27,0.0,196.27,Credit Card,Online Store
+ORD-10378,CUST-0286,2026-05-08 18:52:00,completed,28.0,2.8,25.2,1.83,8.0,35.03,Square POS,Pop-up / Event POS
+ORD-10557,CUST-0135,2026-05-08 20:15:00,completed,95.0,9.5,85.5,6.2,8.0,99.7,Square Online,Online Store
+ORD-10160,CUST-0107,2026-05-09 15:52:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square Online,Online Store
+ORD-10558,CUST-0060,2026-05-11 13:30:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square POS,Online Store
+ORD-10559,CUST-0340,2026-05-12 01:00:00,completed,28.0,2.8,25.2,1.83,8.0,35.03,Square Online,Online Store
+ORD-10476,CUST-0142,2026-05-12 09:47:00,completed,136.0,0.0,136.0,9.86,0.0,145.86,Square Online,Online Store
+ORD-10290,CUST-0105,2026-05-12 10:38:00,completed,95.0,9.5,85.5,6.2,8.0,99.7,Square POS,Pop-up / Event POS
+ORD-10561,CUST-0409,2026-05-12 12:33:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square POS,Pop-up / Event POS
+ORD-10562,CUST-0237,2026-05-12 12:57:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Square POS,Pop-up / Event POS
+ORD-10563,CUST-0236,2026-05-13 01:54:00,completed,95.0,9.5,85.5,6.2,8.0,99.7,Square Online,Online Store
+ORD-10433,CUST-0369,2026-05-13 12:13:00,completed,429.0,0.0,429.0,31.1,0.0,460.1,Square Online,Online Store
+ORD-10564,CUST-0417,2026-05-13 21:30:00,completed,117.0,0.0,117.0,8.48,0.0,125.48,Apple Pay,Online Store
+ORD-10445,CUST-0167,2026-05-14 17:36:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Apple Pay,Online Store
+ORD-10418,CUST-0331,2026-05-15 05:13:00,completed,212.0,0.0,212.0,15.37,0.0,227.37,Square Online,Online Store
+ORD-10451,CUST-0271,2026-05-16 04:25:00,completed,140.0,0.0,140.0,10.15,0.0,150.15,Square Online,Online Store
+ORD-10566,CUST-0069,2026-05-16 10:58:00,completed,131.0,0.0,131.0,9.5,0.0,140.5,Apple Pay,Online Store
+ORD-10567,CUST-0395,2026-05-16 23:28:00,completed,334.0,0.0,334.0,24.21,0.0,358.21,Square Online,Online Store
+ORD-10386,CUST-0083,2026-05-17 18:37:00,completed,133.0,0.0,133.0,9.64,0.0,142.64,Apple Pay,Online Store
+ORD-10243,CUST-0053,2026-05-18 05:45:00,completed,110.0,0.0,110.0,7.97,0.0,117.97,Credit Card,Online Store
+ORD-10568,CUST-0273,2026-05-18 08:50:00,completed,183.0,0.0,183.0,13.27,0.0,196.27,Square Online,Online Store
+ORD-10474,CUST-0330,2026-05-19 05:53:00,completed,105.0,0.0,105.0,7.61,0.0,112.61,Square POS,Pop-up / Event POS
+ORD-10569,CUST-0317,2026-05-19 18:59:00,completed,209.0,0.0,209.0,15.15,0.0,224.15,Square POS,Online Store
+ORD-10570,CUST-0245,2026-05-19 22:46:00,completed,115.0,0.0,115.0,8.34,0.0,123.34,Square Online,Online Store
+ORD-10504,CUST-0048,2026-05-20 13:46:00,completed,117.0,11.7,105.3,7.63,0.0,112.93,Square Online,Online Store
+ORD-10572,CUST-0420,2026-05-20 16:08:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Square Online,Online Store
+ORD-10400,CUST-0421,2026-05-21 00:17:00,completed,78.0,0.0,78.0,5.65,8.0,91.65,Shop Pay,Online Store
+ORD-10499,CUST-0177,2026-05-22 13:34:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square POS,Pop-up / Event POS
+ORD-10573,CUST-0102,2026-05-24 14:08:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square POS,Pop-up / Event POS
+ORD-10443,CUST-0344,2026-05-24 17:34:00,completed,110.0,0.0,110.0,7.97,0.0,117.97,Square POS,Pop-up / Event POS
+ORD-10576,CUST-0321,2026-05-24 23:08:00,completed,64.0,6.4,57.6,4.18,8.0,69.78,Shop Pay,Online Store
+ORD-10575,CUST-0112,2026-05-24 23:56:00,completed,28.0,2.8,25.2,1.83,8.0,35.03,Apple Pay,Online Store
+ORD-10577,CUST-0071,2026-05-25 05:28:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Apple Pay,Online Store
+ORD-10415,CUST-0058,2026-05-26 05:18:00,completed,123.0,0.0,123.0,8.92,0.0,131.92,Square Online,Online Store
+ORD-10579,CUST-0352,2026-05-26 14:29:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Apple Pay,Online Store
+ORD-10580,CUST-0115,2026-05-27 02:04:00,completed,207.0,20.7,186.3,13.51,0.0,199.81,Square Online,Online Store
+ORD-10582,CUST-0346,2026-05-27 09:21:00,cancelled,70.0,0.0,70.0,5.07,8.0,83.07,Square Online,Online Store
+ORD-10581,CUST-0205,2026-05-27 09:24:00,completed,34.0,0.0,34.0,2.46,8.0,44.46,Apple Pay,Online Store
+ORD-10389,CUST-0209,2026-05-29 04:00:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Square POS,Pop-up / Event POS
+ORD-10583,CUST-0436,2026-05-30 11:16:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Square Online,Online Store
+ORD-10542,CUST-0360,2026-05-31 17:41:00,completed,139.0,13.9,125.1,9.07,0.0,134.17,Apple Pay,Online Store
+ORD-10584,CUST-0318,2026-06-01 14:18:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square POS,Online Store
+ORD-10586,CUST-0011,2026-06-01 19:12:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Apple Pay,Online Store
+ORD-10587,CUST-0043,2026-06-02 01:04:00,completed,290.0,0.0,290.0,21.02,0.0,311.02,Square Online,Online Store
+ORD-10539,CUST-0267,2026-06-03 09:13:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Credit Card,Online Store
+ORD-10457,CUST-0075,2026-06-03 12:40:00,completed,173.0,0.0,173.0,12.54,0.0,185.54,Apple Pay,Online Store
+ORD-10489,CUST-0274,2026-06-04 13:57:00,completed,158.0,0.0,158.0,11.46,0.0,169.46,Square Online,Online Store
+ORD-10535,CUST-0131,2026-06-04 14:41:00,completed,56.0,0.0,56.0,4.06,8.0,68.06,Square Online,Online Store
+ORD-10514,CUST-0183,2026-06-05 21:55:00,cancelled,42.0,0.0,42.0,3.04,8.0,53.04,Square POS,Online Store
+ORD-10588,CUST-0329,2026-06-06 06:28:00,cancelled,176.0,0.0,176.0,12.76,0.0,188.76,Credit Card,Online Store
+ORD-10589,CUST-0170,2026-06-06 18:47:00,completed,42.0,4.2,37.8,2.74,8.0,48.54,Square POS,Online Store
+ORD-10438,CUST-0144,2026-06-07 09:53:00,completed,130.0,0.0,130.0,9.42,0.0,139.42,Square POS,Pop-up / Event POS
+ORD-10276,CUST-0437,2026-06-07 20:15:00,completed,84.0,0.0,84.0,6.09,8.0,98.09,Shop Pay,Online Store
+ORD-10486,CUST-0393,2026-06-08 08:30:00,completed,110.0,0.0,110.0,7.97,0.0,117.97,Apple Pay,Online Store
+ORD-10590,CUST-0165,2026-06-09 07:04:00,completed,124.0,0.0,124.0,8.99,0.0,132.99,Square Online,Online Store
+ORD-10591,CUST-0443,2026-06-10 08:19:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Apple Pay,Online Store
+ORD-10316,CUST-0249,2026-06-12 06:56:00,refunded,34.0,0.0,34.0,2.46,8.0,44.46,Apple Pay,Online Store
+ORD-10492,CUST-0361,2026-06-12 07:43:00,completed,36.0,0.0,36.0,2.61,8.0,46.61,Square Online,Online Store
+ORD-10592,CUST-0326,2026-06-12 10:52:00,completed,88.0,8.8,79.2,5.74,8.0,92.94,Square POS,Pop-up / Event POS
+ORD-10593,CUST-0147,2026-06-13 15:31:00,refunded,28.0,2.8,25.2,1.83,8.0,35.03,Square Online,Online Store
+ORD-10496,CUST-0276,2026-06-14 23:21:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Apple Pay,Online Store
+ORD-10595,CUST-0253,2026-06-15 00:52:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Square POS,Pop-up / Event POS
+ORD-10596,CUST-0154,2026-06-15 02:52:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10598,CUST-0114,2026-06-15 06:18:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10599,CUST-0375,2026-06-18 22:17:00,completed,133.0,0.0,133.0,9.64,0.0,142.64,Square POS,Online Store
+ORD-10600,CUST-0323,2026-06-19 09:23:00,completed,50.0,0.0,50.0,3.62,8.0,61.62,Square Online,Online Store
+ORD-10601,CUST-0005,2026-06-19 11:18:00,completed,95.0,9.5,85.5,6.2,8.0,99.7,Apple Pay,Online Store
+ORD-10602,CUST-0338,2026-06-20 21:39:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square POS,Online Store
+ORD-10365,CUST-0333,2026-06-22 09:42:00,completed,170.0,0.0,170.0,12.32,0.0,182.32,Square POS,Online Store
+ORD-10603,CUST-0203,2026-06-22 10:07:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Apple Pay,Online Store
+ORD-10510,CUST-0411,2026-06-23 09:39:00,completed,275.0,27.5,247.5,17.94,0.0,265.44,Square Online,Online Store
+ORD-10604,CUST-0038,2026-06-23 18:30:00,completed,253.0,0.0,253.0,18.34,0.0,271.34,Square Online,Online Store
+ORD-10571,CUST-0245,2026-06-23 18:46:00,completed,26.0,0.0,26.0,1.88,8.0,35.88,Square Online,Online Store
+ORD-10605,CUST-0128,2026-06-26 22:33:00,completed,105.0,10.5,94.5,6.85,0.0,101.35,Square Online,Online Store
+ORD-10455,CUST-0313,2026-06-28 02:49:00,completed,182.0,0.0,182.0,13.19,0.0,195.19,Apple Pay,Online Store
+ORD-10527,CUST-0074,2026-06-29 04:01:00,completed,70.0,0.0,70.0,5.07,8.0,83.07,Square Online,Online Store
+ORD-10372,CUST-0387,2026-06-29 20:10:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square POS,Online Store
+ORD-10606,CUST-0126,2026-06-30 21:37:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Credit Card,Online Store
+ORD-10574,CUST-0102,2026-07-02 10:08:00,completed,76.0,0.0,76.0,5.51,8.0,89.51,Shop Pay,Online Store
+ORD-10529,CUST-0383,2026-07-02 22:52:00,completed,122.0,0.0,122.0,8.84,0.0,130.84,Square Online,Online Store
+ORD-10607,CUST-0213,2026-07-02 23:01:00,completed,105.0,0.0,105.0,7.61,0.0,112.61,Square Online,Online Store
+ORD-10608,CUST-0441,2026-07-03 09:49:00,completed,100.0,0.0,100.0,7.25,0.0,107.25,Square POS,Pop-up / Event POS
+ORD-10609,CUST-0204,2026-07-04 23:09:00,completed,105.0,0.0,105.0,7.61,0.0,112.61,Square Online,Online Store
+ORD-10540,CUST-0267,2026-07-05 13:13:00,completed,28.0,2.8,25.2,1.83,8.0,35.03,Square Online,Online Store
+ORD-10416,CUST-0058,2026-07-08 04:18:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square Online,Online Store
+ORD-10533,CUST-0277,2026-07-08 13:07:00,completed,105.0,0.0,105.0,7.61,0.0,112.61,Square Online,Online Store
+ORD-10490,CUST-0274,2026-07-08 14:57:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square Online,Online Store
+ORD-10585,CUST-0318,2026-07-09 10:18:00,completed,44.0,0.0,44.0,3.19,8.0,55.19,Apple Pay,Online Store
+ORD-10551,CUST-0055,2026-07-10 16:58:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Credit Card,Online Store
+ORD-10594,CUST-0147,2026-07-10 17:31:00,completed,42.0,0.0,42.0,3.04,8.0,53.04,Apple Pay,Online Store
+ORD-10610,CUST-0176,2026-07-12 04:55:00,completed,28.0,0.0,28.0,2.03,8.0,38.03,Square POS,Online Store
+ORD-10419,CUST-0331,2026-07-13 04:13:00,completed,306.0,0.0,306.0,22.18,0.0,328.18,Square Online,Online Store
+ORD-10548,CUST-0235,2026-07-15 08:36:00,completed,191.0,0.0,191.0,13.85,0.0,204.85,Apple Pay,Online Store
+ORD-10565,CUST-0417,2026-07-20 00:30:00,completed,163.0,0.0,163.0,11.82,0.0,174.82,Square POS,Pop-up / Event POS
+ORD-10553,CUST-0179,2026-07-20 02:20:00,completed,214.0,21.4,192.6,13.96,0.0,206.56,Square Online,Online Store
+ORD-10511,CUST-0411,2026-07-20 12:39:00,completed,285.0,0.0,285.0,20.66,0.0,305.66,Apple Pay,Online Store
+ORD-10556,CUST-0309,2026-07-22 09:15:00,completed,95.0,0.0,95.0,6.89,0.0,101.89,Square POS,Online Store
+ORD-10578,CUST-0071,2026-07-23 02:28:00,completed,88.0,0.0,88.0,6.38,8.0,102.38,Square Online,Online Store
+ORD-10434,CUST-0369,2026-07-23 15:13:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Square Online,Online Store
+ORD-10390,CUST-0209,2026-07-24 02:00:00,completed,22.0,2.2,19.8,1.44,8.0,29.24,Square Online,Online Store
+ORD-10505,CUST-0048,2026-07-28 15:46:00,completed,133.0,13.3,119.7,8.68,0.0,128.38,Apple Pay,Online Store
+ORD-10611,CUST-0079,2026-07-30 01:16:00,completed,22.0,0.0,22.0,1.59,8.0,31.59,Apple Pay,Online Store
+ORD-10597,CUST-0154,2026-07-30 22:52:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Square Online,Online Store
+ORD-10560,CUST-0340,2026-07-31 05:00:00,completed,75.0,0.0,75.0,5.44,8.0,88.44,Square POS,Pop-up / Event POS

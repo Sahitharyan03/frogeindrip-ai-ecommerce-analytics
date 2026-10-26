@@ -1,0 +1,7 @@
+frogeindrip_duckdb:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "../data/frogeindrip.duckdb"
+      threads: 2

@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: frogeindrip_analytics_app
+    ports:
+      - "8501:8501"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - OPENAI_MODEL=${OPENAI_MODEL:-gpt-4o-mini}
+      - DUCKDB_DATABASE_PATH=data/frogeindrip.duckdb
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped

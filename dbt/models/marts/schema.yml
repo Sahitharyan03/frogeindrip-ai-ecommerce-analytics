@@ -1,0 +1,80 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: "Enriched customer dimension with lifetime orders, net spend, and repeat buyer classification."
+    columns:
+      - name: customer_id
+        description: "Primary key for customer dimension."
+        tests:
+          - unique
+          - not_null
+      - name: is_repeat_buyer
+        description: "Flag indicating customer has placed >1 completed order."
+        tests:
+          - not_null
+
+  - name: dim_products
+    description: "Product catalog dimension with category and margin data."
+    columns:
+      - name: product_id
+        description: "Primary key for products."
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_dates
+    description: "Calendar date dimension spanning the reporting and simulation window."
+    columns:
+      - name: date_id
+        description: "Date primary key."
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_sales
+    description: "Granular fact table at order line item grain with allocated discounts and profit."
+    columns:
+      - name: order_item_id
+        description: "Primary key for line item."
+        tests:
+          - unique
+          - not_null
+      - name: order_id
+        description: "Foreign key to orders."
+        tests:
+          - not_null
+      - name: item_net_sales
+        description: "Line item net sales after allocated discount."
+        tests:
+          - not_null
+
+  - name: mart_monthly_performance
+    description: "Aggregated monthly executive performance mart with MoM growth and gross margins."
+    columns:
+      - name: year_month
+        description: "Year and month string (YYYY-MM)."
+        tests:
+          - unique
+          - not_null
+
+  - name: mart_rfm_segments
+    description: "Customer RFM segmentation mart with quintile scoring and strategic segments."
+    columns:
+      - name: customer_id
+        description: "Primary key for customer RFM score."
+        tests:
+          - unique
+          - not_null
+
+  - name: mart_cohort_retention
+    description: "Monthly customer cohort retention matrix with periodic customer counts and revenue."
+    columns:
+      - name: cohort_month
+        description: "Month customer placed first order."
+        tests:
+          - not_null
+      - name: period_number
+        description: "Months elapsed since first order (0, 1, 2...)."
+        tests:
+          - not_null

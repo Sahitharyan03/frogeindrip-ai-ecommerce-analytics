@@ -1,0 +1,67 @@
+version: 2
+
+models:
+  - name: stg_customers
+    description: "Cleaned and typed customer registration records."
+    columns:
+      - name: customer_id
+        description: "Primary key for customers."
+        tests:
+          - unique
+          - not_null
+      - name: email
+        description: "Customer email address."
+        tests:
+          - not_null
+
+  - name: stg_products
+    description: "Cleaned and typed catalog products with pricing and unit costs."
+    columns:
+      - name: product_id
+        description: "Primary key for products."
+        tests:
+          - unique
+          - not_null
+      - name: retail_price
+        description: "Product MSRP retail price."
+        tests:
+          - not_null
+
+  - name: stg_orders
+    description: "Cleaned transaction orders with status, payment method, and financial totals."
+    columns:
+      - name: order_id
+        description: "Primary key for orders."
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        description: "Foreign key referencing stg_customers."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+
+  - name: stg_order_items
+    description: "Granular line items per order."
+    columns:
+      - name: order_item_id
+        description: "Primary key for order line items."
+        tests:
+          - unique
+          - not_null
+      - name: order_id
+        description: "Foreign key referencing stg_orders."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_orders')
+              field: order_id
+      - name: product_id
+        description: "Foreign key referencing stg_products."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_products')
+              field: product_id

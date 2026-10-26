@@ -1,0 +1,451 @@
+customer_id,first_name,last_name,email,created_at,acquisition_channel,city,state,country
+CUST-0281,Jesse,Jones,jesse.jones281@example.com,2025-09-10 05:29:00,Instagram,Boston,MA,US
+CUST-0384,Jordan,Jones,jordan.jones384@example.com,2025-09-17 00:26:00,TikTok,San Diego,CA,US
+CUST-0302,Rowan,Perez,rowan.perez302@example.com,2025-09-23 14:58:00,Instagram,Boston,MA,US
+CUST-0122,Kendall,Taylor,kendall.taylor122@example.com,2025-09-27 11:22:00,Organic Search,Atlanta,GA,US
+CUST-0139,Cameron,Ramirez,cameron.ramirez139@example.com,2025-09-27 20:11:00,Instagram,San Diego,CA,US
+CUST-0081,Casey,Ramirez,casey.ramirez81@example.com,2025-09-28 12:49:00,Instagram,Miami,FL,US
+CUST-0422,Kendall,Anderson,kendall.anderson422@example.com,2025-09-28 16:12:00,Paid Social,Miami,FL,US
+CUST-0365,Elliott,Jones,elliott.jones365@example.com,2025-09-29 08:45:00,Organic Search,Austin,TX,US
+CUST-0130,Avery,Ramirez,avery.ramirez130@example.com,2025-10-01 07:38:00,Organic Search,San Francisco,CA,US
+CUST-0430,Chris,Gonzalez,chris.gonzalez430@example.com,2025-10-05 15:59:00,Paid Social,Brooklyn,NY,US
+CUST-0034,Chris,Davis,chris.davis34@example.com,2025-10-06 02:55:00,Paid Social,Philadelphia,PA,US
+CUST-0307,Pat,Martinez,pat.martinez307@example.com,2025-10-08 01:12:00,Paid Social,Atlanta,GA,US
+CUST-0111,Eden,Gonzalez,eden.gonzalez111@example.com,2025-10-08 22:57:00,Referral,New York,NY,US
+CUST-0434,Sam,Ramirez,sam.ramirez434@example.com,2025-10-09 02:29:00,Instagram,Miami,FL,US
+CUST-0423,Emerson,Davis,emerson.davis423@example.com,2025-10-09 14:06:00,Instagram,Atlanta,GA,US
+CUST-0080,Elliott,Miller,elliott.miller80@example.com,2025-10-09 17:01:00,Instagram,Seattle,WA,US
+CUST-0208,River,Chen,river.chen208@example.com,2025-10-12 00:57:00,Organic Search,Denver,CO,US
+CUST-0270,Finley,Jackson,finley.jackson270@example.com,2025-10-14 11:43:00,Instagram,Los Angeles,CA,US
+CUST-0041,Cameron,Garcia,cameron.garcia41@example.com,2025-10-15 03:08:00,Instagram,San Diego,CA,US
+CUST-0044,Jordan,Perez,jordan.perez44@example.com,2025-10-17 06:41:00,Instagram,San Francisco,CA,US
+CUST-0232,Kendall,Brown,kendall.brown232@example.com,2025-10-17 23:41:00,Referral,San Francisco,CA,US
+CUST-0129,Emerson,Clark,emerson.clark129@example.com,2025-10-18 06:15:00,Organic Search,San Francisco,CA,US
+CUST-0319,Finley,Jones,finley.jones319@example.com,2025-10-18 18:28:00,Referral,Chicago,IL,US
+CUST-0189,Avery,White,avery.white189@example.com,2025-10-18 19:53:00,Referral,San Diego,CA,US
+CUST-0391,Cameron,Thomas,cameron.thomas391@example.com,2025-10-19 00:31:00,TikTok,Denver,CO,US
+CUST-0280,Emerson,Lee,emerson.lee280@example.com,2025-10-19 23:18:00,TikTok,San Francisco,CA,US
+CUST-0068,Jordan,Chen,jordan.chen68@example.com,2025-10-21 20:49:00,TikTok,Chicago,IL,US
+CUST-0040,Elliott,Martinez,elliott.martinez40@example.com,2025-10-22 12:32:00,Instagram,Atlanta,GA,US
+CUST-0214,River,Harris,river.harris214@example.com,2025-10-24 09:03:00,Referral,San Diego,CA,US
+CUST-0067,Casey,Lewis,casey.lewis67@example.com,2025-10-24 11:05:00,Referral,Philadelphia,PA,US
+CUST-0295,Hayden,Brown,hayden.brown295@example.com,2025-10-24 11:28:00,Referral,San Francisco,CA,US
+CUST-0211,Jamie,Ramirez,jamie.ramirez211@example.com,2025-10-25 01:06:00,Instagram,Atlanta,GA,US
+CUST-0376,Casey,Garcia,casey.garcia376@example.com,2025-10-25 06:35:00,Instagram,Miami,FL,US
+CUST-0445,Sam,Anderson,sam.anderson445@example.com,2025-10-26 14:29:00,TikTok,Boston,MA,US
+CUST-0312,Jordan,Gonzalez,jordan.gonzalez312@example.com,2025-10-26 21:43:00,Paid Social,Atlanta,GA,US
+CUST-0223,Riley,Ramirez,riley.ramirez223@example.com,2025-10-27 07:46:00,Paid Social,Toronto,ON,CA
+CUST-0098,Finley,Johnson,finley.johnson98@example.com,2025-10-30 00:26:00,Organic Search,Seattle,WA,US
+CUST-0187,Sage,Jackson,sage.jackson187@example.com,2025-10-30 02:47:00,Referral,Chicago,IL,US
+CUST-0050,Chris,Lopez,chris.lopez50@example.com,2025-10-31 10:24:00,Paid Social,Miami,FL,US
+CUST-0012,Reese,Lee,reese.lee12@example.com,2025-10-31 21:10:00,Instagram,Boston,MA,US
+CUST-0174,Cameron,Hernandez,cameron.hernandez174@example.com,2025-10-31 23:21:00,Organic Search,Portland,OR,US
+CUST-0269,Finley,Moore,finley.moore269@example.com,2025-11-01 05:05:00,Instagram,Brooklyn,NY,US
+CUST-0035,Sage,Taylor,sage.taylor35@example.com,2025-11-02 09:44:00,Organic Search,Seattle,WA,US
+CUST-0392,Taylor,Lopez,taylor.lopez392@example.com,2025-11-04 02:29:00,Instagram,Atlanta,GA,US
+CUST-0056,Jordan,Jackson,jordan.jackson56@example.com,2025-11-04 12:26:00,Paid Social,Portland,OR,US
+CUST-0298,Sage,Rodriguez,sage.rodriguez298@example.com,2025-11-04 22:26:00,Organic Search,Portland,OR,US
+CUST-0244,Sam,White,sam.white244@example.com,2025-11-04 23:33:00,Organic Search,San Francisco,CA,US
+CUST-0412,Kendall,White,kendall.white412@example.com,2025-11-05 11:45:00,TikTok,Chicago,IL,US
+CUST-0084,Peyton,Gonzalez,peyton.gonzalez84@example.com,2025-11-05 21:46:00,TikTok,Portland,OR,US
+CUST-0195,Jordan,Brown,jordan.brown195@example.com,2025-11-06 02:37:00,Referral,Portland,OR,US
+CUST-0117,Sage,Brown,sage.brown117@example.com,2025-11-09 05:34:00,Paid Social,New York,NY,US
+CUST-0310,Milan,Harris,milan.harris310@example.com,2025-11-10 05:08:00,Instagram,Toronto,ON,CA
+CUST-0168,Avery,Thompson,avery.thompson168@example.com,2025-11-10 22:17:00,TikTok,San Diego,CA,US
+CUST-0401,Jordan,Smith,jordan.smith401@example.com,2025-11-12 14:45:00,Referral,Portland,OR,US
+CUST-0156,Harley,Moore,harley.moore156@example.com,2025-11-12 19:05:00,Instagram,Atlanta,GA,US
+CUST-0290,Kai,Rodriguez,kai.rodriguez290@example.com,2025-11-13 18:37:00,Instagram,Brooklyn,NY,US
+CUST-0366,Hayden,Miller,hayden.miller366@example.com,2025-11-14 13:12:00,Instagram,Chicago,IL,US
+CUST-0006,Jesse,Davis,jesse.davis6@example.com,2025-11-14 14:13:00,Instagram,Portland,OR,US
+CUST-0251,Peyton,Thomas,peyton.thomas251@example.com,2025-11-15 19:29:00,Instagram,Philadelphia,PA,US
+CUST-0418,Cameron,Martinez,cameron.martinez418@example.com,2025-11-16 01:22:00,Instagram,Miami,FL,US
+CUST-0327,Skyler,White,skyler.white327@example.com,2025-11-16 05:33:00,Instagram,Philadelphia,PA,US
+CUST-0178,Eden,Chen,eden.chen178@example.com,2025-11-16 07:55:00,TikTok,Dallas,TX,US
+CUST-0175,Elliott,Jones,elliott.jones175@example.com,2025-11-16 20:26:00,Instagram,San Diego,CA,US
+CUST-0389,Elliott,Jackson,elliott.jackson389@example.com,2025-11-17 23:15:00,Referral,Austin,TX,US
+CUST-0172,Chris,Anderson,chris.anderson172@example.com,2025-11-18 02:41:00,Paid Social,Dallas,TX,US
+CUST-0015,Casey,Robinson,casey.robinson15@example.com,2025-11-19 06:44:00,Organic Search,Atlanta,GA,US
+CUST-0031,Eden,Sanchez,eden.sanchez31@example.com,2025-11-19 19:15:00,Instagram,Brooklyn,NY,US
+CUST-0085,Hayden,Williams,hayden.williams85@example.com,2025-11-19 22:57:00,Instagram,Seattle,WA,US
+CUST-0231,Logan,Perez,logan.perez231@example.com,2025-11-20 09:44:00,TikTok,Philadelphia,PA,US
+CUST-0186,Cameron,Anderson,cameron.anderson186@example.com,2025-11-20 17:29:00,Instagram,Chicago,IL,US
+CUST-0194,Harley,Lopez,harley.lopez194@example.com,2025-11-20 22:42:00,TikTok,Chicago,IL,US
+CUST-0017,Jamie,Davis,jamie.davis17@example.com,2025-11-22 12:13:00,Instagram,Portland,OR,US
+CUST-0023,Jamie,Lopez,jamie.lopez23@example.com,2025-11-23 05:29:00,Paid Social,Miami,FL,US
+CUST-0444,Kai,Robinson,kai.robinson444@example.com,2025-11-24 19:23:00,Instagram,Atlanta,GA,US
+CUST-0353,Harley,White,harley.white353@example.com,2025-11-27 07:10:00,Instagram,New York,NY,US
+CUST-0078,Harley,Thompson,harley.thompson78@example.com,2025-11-27 13:24:00,Referral,Brooklyn,NY,US
+CUST-0166,Taylor,Smith,taylor.smith166@example.com,2025-11-27 15:50:00,TikTok,Denver,CO,US
+CUST-0164,Riley,Robinson,riley.robinson164@example.com,2025-11-27 18:50:00,TikTok,Seattle,WA,US
+CUST-0284,Finley,Jones,finley.jones284@example.com,2025-11-28 12:32:00,TikTok,San Francisco,CA,US
+CUST-0292,Eden,Rodriguez,eden.rodriguez292@example.com,2025-11-28 12:41:00,TikTok,Los Angeles,CA,US
+CUST-0054,Hayden,Johnson,hayden.johnson54@example.com,2025-11-28 15:04:00,Organic Search,Los Angeles,CA,US
+CUST-0428,Avery,Martinez,avery.martinez428@example.com,2025-11-28 19:41:00,Paid Social,Brooklyn,NY,US
+CUST-0110,Dakota,Martinez,dakota.martinez110@example.com,2025-11-29 03:29:00,Instagram,Philadelphia,PA,US
+CUST-0246,Riley,Jackson,riley.jackson246@example.com,2025-11-29 11:46:00,TikTok,Denver,CO,US
+CUST-0222,Jesse,Sanchez,jesse.sanchez222@example.com,2025-11-29 13:29:00,Instagram,Los Angeles,CA,US
+CUST-0061,Sam,Robinson,sam.robinson61@example.com,2025-11-29 21:56:00,Referral,Los Angeles,CA,US
+CUST-0118,Rowan,Moore,rowan.moore118@example.com,2025-11-30 07:01:00,TikTok,Los Angeles,CA,US
+CUST-0158,Jamie,Wilson,jamie.wilson158@example.com,2025-12-03 00:19:00,Instagram,Philadelphia,PA,US
+CUST-0354,Peyton,Perez,peyton.perez354@example.com,2025-12-04 00:02:00,Instagram,Chicago,IL,US
+CUST-0261,Cameron,Miller,cameron.miller261@example.com,2025-12-04 13:22:00,Instagram,Boston,MA,US
+CUST-0210,Dakota,Thompson,dakota.thompson210@example.com,2025-12-04 18:29:00,Instagram,Denver,CO,US
+CUST-0171,River,Clark,river.clark171@example.com,2025-12-05 18:36:00,Organic Search,Brooklyn,NY,US
+CUST-0146,Reese,Davis,reese.davis146@example.com,2025-12-05 19:16:00,Instagram,Atlanta,GA,US
+CUST-0120,Jesse,Garcia,jesse.garcia120@example.com,2025-12-06 00:20:00,Organic Search,Portland,OR,US
+CUST-0262,Casey,Moore,casey.moore262@example.com,2025-12-06 17:51:00,Referral,Philadelphia,PA,US
+CUST-0103,River,Thomas,river.thomas103@example.com,2025-12-07 03:38:00,Paid Social,Portland,OR,US
+CUST-0359,Alex,White,alex.white359@example.com,2025-12-07 15:31:00,Paid Social,Toronto,ON,CA
+CUST-0356,Jordan,Jackson,jordan.jackson356@example.com,2025-12-08 14:43:00,Paid Social,Dallas,TX,US
+CUST-0004,Alex,Taylor,alex.taylor4@example.com,2025-12-08 16:45:00,Instagram,Philadelphia,PA,US
+CUST-0202,Kendall,Johnson,kendall.johnson202@example.com,2025-12-08 23:06:00,TikTok,San Francisco,CA,US
+CUST-0136,Eden,White,eden.white136@example.com,2025-12-09 04:17:00,Referral,Portland,OR,US
+CUST-0294,Harley,Moore,harley.moore294@example.com,2025-12-09 06:12:00,TikTok,Portland,OR,US
+CUST-0047,Elliott,Robinson,elliott.robinson47@example.com,2025-12-09 12:28:00,Instagram,San Francisco,CA,US
+CUST-0104,Milan,Wilson,milan.wilson104@example.com,2025-12-10 05:52:00,Referral,Philadelphia,PA,US
+CUST-0266,Chris,Ramirez,chris.ramirez266@example.com,2025-12-10 14:36:00,Instagram,Toronto,ON,CA
+CUST-0426,Sam,Chen,sam.chen426@example.com,2025-12-12 03:59:00,TikTok,Austin,TX,US
+CUST-0092,Pat,Gonzalez,pat.gonzalez92@example.com,2025-12-12 04:38:00,TikTok,Portland,OR,US
+CUST-0339,River,Wilson,river.wilson339@example.com,2025-12-12 08:30:00,Referral,Austin,TX,US
+CUST-0127,Chris,Rodriguez,chris.rodriguez127@example.com,2025-12-12 13:37:00,Paid Social,New York,NY,US
+CUST-0113,Avery,Harris,avery.harris113@example.com,2025-12-13 22:54:00,TikTok,Philadelphia,PA,US
+CUST-0132,Taylor,Thomas,taylor.thomas132@example.com,2025-12-14 06:21:00,Referral,New York,NY,US
+CUST-0350,Emerson,Gonzalez,emerson.gonzalez350@example.com,2025-12-15 15:44:00,Instagram,Dallas,TX,US
+CUST-0440,Jamie,Miller,jamie.miller440@example.com,2025-12-16 00:48:00,Paid Social,Miami,FL,US
+CUST-0057,Pat,Perez,pat.perez57@example.com,2025-12-16 08:20:00,Instagram,Atlanta,GA,US
+CUST-0219,Avery,Martinez,avery.martinez219@example.com,2025-12-16 09:26:00,Instagram,Austin,TX,US
+CUST-0107,Casey,Wilson,casey.wilson107@example.com,2025-12-16 12:45:00,Instagram,Denver,CO,US
+CUST-0100,Alex,Lewis,alex.lewis100@example.com,2025-12-16 13:49:00,Instagram,Philadelphia,PA,US
+CUST-0180,Finley,Smith,finley.smith180@example.com,2025-12-16 16:17:00,Paid Social,Chicago,IL,US
+CUST-0239,Skyler,Garcia,skyler.garcia239@example.com,2025-12-17 04:13:00,Instagram,Atlanta,GA,US
+CUST-0380,Finley,Moore,finley.moore380@example.com,2025-12-17 18:41:00,Organic Search,Seattle,WA,US
+CUST-0254,Kendall,Williams,kendall.williams254@example.com,2025-12-17 20:27:00,Organic Search,Portland,OR,US
+CUST-0157,Finley,Gonzalez,finley.gonzalez157@example.com,2025-12-18 05:38:00,Organic Search,Atlanta,GA,US
+CUST-0197,Sam,Gonzalez,sam.gonzalez197@example.com,2025-12-18 06:09:00,TikTok,Los Angeles,CA,US
+CUST-0163,Emerson,Rodriguez,emerson.rodriguez163@example.com,2025-12-19 08:55:00,Instagram,Dallas,TX,US
+CUST-0076,Alex,Jones,alex.jones76@example.com,2025-12-19 09:59:00,Organic Search,Portland,OR,US
+CUST-0252,Emerson,Williams,emerson.williams252@example.com,2025-12-21 06:41:00,TikTok,Seattle,WA,US
+CUST-0161,Chris,Taylor,chris.taylor161@example.com,2025-12-21 12:10:00,TikTok,New York,NY,US
+CUST-0220,Harley,Taylor,harley.taylor220@example.com,2025-12-21 21:33:00,Referral,Miami,FL,US
+CUST-0082,Hayden,Lopez,hayden.lopez82@example.com,2025-12-22 07:53:00,Paid Social,Portland,OR,US
+CUST-0028,Avery,Clark,avery.clark28@example.com,2025-12-23 06:32:00,Instagram,Seattle,WA,US
+CUST-0371,Reese,Wilson,reese.wilson371@example.com,2025-12-23 07:33:00,Instagram,Boston,MA,US
+CUST-0150,Alex,Thompson,alex.thompson150@example.com,2025-12-24 03:08:00,Instagram,Miami,FL,US
+CUST-0382,Skyler,Rodriguez,skyler.rodriguez382@example.com,2025-12-24 06:19:00,Instagram,San Diego,CA,US
+CUST-0216,Pat,Jackson,pat.jackson216@example.com,2025-12-24 18:43:00,TikTok,Chicago,IL,US
+CUST-0185,Emerson,Rodriguez,emerson.rodriguez185@example.com,2025-12-25 02:45:00,TikTok,Miami,FL,US
+CUST-0008,Harley,Smith,harley.smith8@example.com,2025-12-25 09:29:00,Paid Social,San Francisco,CA,US
+CUST-0400,Logan,Harris,logan.harris400@example.com,2025-12-25 14:12:00,TikTok,Toronto,ON,CA
+CUST-0264,River,Clark,river.clark264@example.com,2025-12-27 08:17:00,Instagram,New York,NY,US
+CUST-0019,Riley,White,riley.white19@example.com,2025-12-28 03:34:00,Organic Search,Miami,FL,US
+CUST-0201,Riley,Lee,riley.lee201@example.com,2025-12-29 07:58:00,Paid Social,Denver,CO,US
+CUST-0288,Rowan,Harris,rowan.harris288@example.com,2025-12-30 04:28:00,Referral,Portland,OR,US
+CUST-0240,Sam,Sanchez,sam.sanchez240@example.com,2025-12-30 05:00:00,Referral,Miami,FL,US
+CUST-0301,Elliott,Perez,elliott.perez301@example.com,2025-12-30 05:55:00,Instagram,Chicago,IL,US
+CUST-0106,Finley,Miller,finley.miller106@example.com,2025-12-31 06:17:00,TikTok,San Diego,CA,US
+CUST-0090,River,Lopez,river.lopez90@example.com,2025-12-31 07:47:00,TikTok,Austin,TX,US
+CUST-0039,Emerson,Lee,emerson.lee39@example.com,2025-12-31 11:14:00,Paid Social,Los Angeles,CA,US
+CUST-0336,Alex,Hernandez,alex.hernandez336@example.com,2025-12-31 12:22:00,Organic Search,Atlanta,GA,US
+CUST-0073,Pat,Perez,pat.perez73@example.com,2025-12-31 17:42:00,Instagram,San Francisco,CA,US
+CUST-0149,Eden,Garcia,eden.garcia149@example.com,2025-12-31 19:14:00,Instagram,Boston,MA,US
+CUST-0241,Sam,Brown,sam.brown241@example.com,2026-01-01 03:16:00,Instagram,Austin,TX,US
+CUST-0419,Rowan,Perez,rowan.perez419@example.com,2026-01-01 03:24:00,Referral,Toronto,ON,CA
+CUST-0435,Morgan,Martinez,morgan.martinez435@example.com,2026-01-01 15:46:00,TikTok,Dallas,TX,US
+CUST-0160,Pat,Lee,pat.lee160@example.com,2026-01-01 16:16:00,Instagram,Los Angeles,CA,US
+CUST-0025,Skyler,Harris,skyler.harris25@example.com,2026-01-01 18:49:00,Instagram,Portland,OR,US
+CUST-0042,Cameron,Sanchez,cameron.sanchez42@example.com,2026-01-01 23:12:00,Instagram,San Francisco,CA,US
+CUST-0032,Rowan,Johnson,rowan.johnson32@example.com,2026-01-02 12:46:00,Referral,San Diego,CA,US
+CUST-0125,Cameron,Perez,cameron.perez125@example.com,2026-01-03 13:36:00,TikTok,Seattle,WA,US
+CUST-0399,Morgan,Lopez,morgan.lopez399@example.com,2026-01-03 21:50:00,TikTok,Portland,OR,US
+CUST-0099,Jamie,Anderson,jamie.anderson99@example.com,2026-01-03 22:15:00,Organic Search,Chicago,IL,US
+CUST-0272,Pat,Harris,pat.harris272@example.com,2026-01-04 02:07:00,TikTok,Boston,MA,US
+CUST-0155,Taylor,Moore,taylor.moore155@example.com,2026-01-04 06:43:00,Instagram,Brooklyn,NY,US
+CUST-0397,Skyler,Garcia,skyler.garcia397@example.com,2026-01-05 21:35:00,Instagram,Denver,CO,US
+CUST-0291,Taylor,Rodriguez,taylor.rodriguez291@example.com,2026-01-06 00:28:00,Instagram,Brooklyn,NY,US
+CUST-0373,Sam,Gonzalez,sam.gonzalez373@example.com,2026-01-06 02:58:00,Referral,Brooklyn,NY,US
+CUST-0379,Rowan,Smith,rowan.smith379@example.com,2026-01-06 10:05:00,Paid Social,Brooklyn,NY,US
+CUST-0308,Sam,Johnson,sam.johnson308@example.com,2026-01-06 19:54:00,TikTok,San Francisco,CA,US
+CUST-0345,Jamie,White,jamie.white345@example.com,2026-01-07 00:57:00,Instagram,Toronto,ON,CA
+CUST-0162,Emerson,Jackson,emerson.jackson162@example.com,2026-01-07 01:18:00,Instagram,Brooklyn,NY,US
+CUST-0036,Jamie,Perez,jamie.perez36@example.com,2026-01-07 06:23:00,Referral,Dallas,TX,US
+CUST-0151,Jordan,Taylor,jordan.taylor151@example.com,2026-01-07 19:44:00,TikTok,Chicago,IL,US
+CUST-0386,Elliott,Hernandez,elliott.hernandez386@example.com,2026-01-07 22:08:00,TikTok,Boston,MA,US
+CUST-0029,Finley,Jones,finley.jones29@example.com,2026-01-08 03:49:00,TikTok,New York,NY,US
+CUST-0045,Kendall,Martinez,kendall.martinez45@example.com,2026-01-09 13:15:00,Instagram,Seattle,WA,US
+CUST-0374,Hayden,Brown,hayden.brown374@example.com,2026-01-09 19:10:00,Instagram,Austin,TX,US
+CUST-0407,Casey,Lee,casey.lee407@example.com,2026-01-10 04:36:00,Organic Search,Atlanta,GA,US
+CUST-0026,Dakota,Jones,dakota.jones26@example.com,2026-01-11 00:00:00,Paid Social,Miami,FL,US
+CUST-0053,Jordan,Smith,jordan.smith53@example.com,2026-01-12 04:30:00,Instagram,Austin,TX,US
+CUST-0394,Eden,Lee,eden.lee394@example.com,2026-01-12 07:30:00,TikTok,Denver,CO,US
+CUST-0021,Sam,Thomas,sam.thomas21@example.com,2026-01-13 01:05:00,Referral,Brooklyn,NY,US
+CUST-0009,Jamie,Johnson,jamie.johnson9@example.com,2026-01-13 03:18:00,TikTok,Boston,MA,US
+CUST-0091,Avery,Lopez,avery.lopez91@example.com,2026-01-13 03:53:00,Instagram,New York,NY,US
+CUST-0255,Logan,Brown,logan.brown255@example.com,2026-01-13 07:59:00,Instagram,San Diego,CA,US
+CUST-0324,Sam,Smith,sam.smith324@example.com,2026-01-13 19:58:00,Organic Search,San Diego,CA,US
+CUST-0450,Elliott,Thomas,elliott.thomas450@example.com,2026-01-14 00:07:00,Organic Search,Seattle,WA,US
+CUST-0377,Avery,Jackson,avery.jackson377@example.com,2026-01-14 03:05:00,TikTok,Austin,TX,US
+CUST-0093,Reese,Perez,reese.perez93@example.com,2026-01-14 16:32:00,Organic Search,San Diego,CA,US
+CUST-0121,Jamie,Davis,jamie.davis121@example.com,2026-01-14 23:16:00,TikTok,Los Angeles,CA,US
+CUST-0192,Emerson,Miller,emerson.miller192@example.com,2026-01-15 04:24:00,Referral,Atlanta,GA,US
+CUST-0065,Kendall,Taylor,kendall.taylor65@example.com,2026-01-15 14:17:00,TikTok,Denver,CO,US
+CUST-0020,Dakota,Lewis,dakota.lewis20@example.com,2026-01-16 04:25:00,Instagram,Boston,MA,US
+CUST-0279,Taylor,Ramirez,taylor.ramirez279@example.com,2026-01-16 20:36:00,TikTok,Philadelphia,PA,US
+CUST-0258,Skyler,Taylor,skyler.taylor258@example.com,2026-01-16 20:42:00,TikTok,San Francisco,CA,US
+CUST-0381,Dakota,Jackson,dakota.jackson381@example.com,2026-01-17 06:01:00,Referral,San Diego,CA,US
+CUST-0242,Elliott,Chen,elliott.chen242@example.com,2026-01-18 14:00:00,Organic Search,Boston,MA,US
+CUST-0094,Harley,White,harley.white94@example.com,2026-01-18 15:42:00,Instagram,Los Angeles,CA,US
+CUST-0173,Chris,Moore,chris.moore173@example.com,2026-01-18 23:40:00,Paid Social,San Diego,CA,US
+CUST-0248,Morgan,Anderson,morgan.anderson248@example.com,2026-01-19 08:58:00,Instagram,Dallas,TX,US
+CUST-0424,River,Lewis,river.lewis424@example.com,2026-01-21 02:14:00,Instagram,Atlanta,GA,US
+CUST-0437,Rowan,Perez,rowan.perez437@example.com,2026-01-21 16:11:00,Referral,Toronto,ON,CA
+CUST-0328,Avery,Miller,avery.miller328@example.com,2026-01-23 19:07:00,Instagram,Brooklyn,NY,US
+CUST-0408,Rowan,Anderson,rowan.anderson408@example.com,2026-01-24 15:33:00,Instagram,Toronto,ON,CA
+CUST-0215,Milan,Rodriguez,milan.rodriguez215@example.com,2026-01-24 17:38:00,Instagram,Boston,MA,US
+CUST-0182,Kai,Jackson,kai.jackson182@example.com,2026-01-24 17:45:00,Instagram,Austin,TX,US
+CUST-0398,Hayden,Wilson,hayden.wilson398@example.com,2026-01-25 03:17:00,Instagram,San Francisco,CA,US
+CUST-0229,Morgan,Brown,morgan.brown229@example.com,2026-01-25 11:02:00,Paid Social,Denver,CO,US
+CUST-0243,Riley,Moore,riley.moore243@example.com,2026-01-25 20:01:00,Instagram,Austin,TX,US
+CUST-0427,Sage,Lewis,sage.lewis427@example.com,2026-01-26 01:30:00,Organic Search,Seattle,WA,US
+CUST-0363,Reese,Johnson,reese.johnson363@example.com,2026-01-26 07:54:00,Organic Search,Portland,OR,US
+CUST-0105,Skyler,Wilson,skyler.wilson105@example.com,2026-01-26 15:47:00,TikTok,San Diego,CA,US
+CUST-0225,Skyler,Williams,skyler.williams225@example.com,2026-01-27 00:23:00,TikTok,Miami,FL,US
+CUST-0275,Avery,Garcia,avery.garcia275@example.com,2026-01-27 14:48:00,Instagram,Miami,FL,US
+CUST-0207,Rowan,Brown,rowan.brown207@example.com,2026-01-27 17:29:00,TikTok,Miami,FL,US
+CUST-0077,Dakota,Sanchez,dakota.sanchez77@example.com,2026-01-28 07:55:00,Instagram,Atlanta,GA,US
+CUST-0230,Morgan,Williams,morgan.williams230@example.com,2026-01-28 17:56:00,Instagram,Chicago,IL,US
+CUST-0191,Skyler,Lopez,skyler.lopez191@example.com,2026-01-29 00:59:00,Referral,Portland,OR,US
+CUST-0190,Reese,Taylor,reese.taylor190@example.com,2026-01-29 01:22:00,TikTok,Portland,OR,US
+CUST-0357,Logan,Wilson,logan.wilson357@example.com,2026-01-29 12:36:00,TikTok,Chicago,IL,US
+CUST-0448,Hayden,Thompson,hayden.thompson448@example.com,2026-01-29 21:04:00,Instagram,San Francisco,CA,US
+CUST-0247,Alex,Smith,alex.smith247@example.com,2026-01-30 01:54:00,TikTok,Toronto,ON,CA
+CUST-0358,Jamie,Martinez,jamie.martinez358@example.com,2026-01-31 06:17:00,Paid Social,Atlanta,GA,US
+CUST-0087,Taylor,Perez,taylor.perez87@example.com,2026-01-31 20:39:00,Organic Search,Portland,OR,US
+CUST-0101,Harley,Thompson,harley.thompson101@example.com,2026-02-01 02:29:00,TikTok,Brooklyn,NY,US
+CUST-0233,Peyton,Gonzalez,peyton.gonzalez233@example.com,2026-02-01 18:02:00,Instagram,Boston,MA,US
+CUST-0283,Jamie,Ramirez,jamie.ramirez283@example.com,2026-02-02 19:47:00,Instagram,Portland,OR,US
+CUST-0119,Sam,Ramirez,sam.ramirez119@example.com,2026-02-03 00:11:00,Instagram,Brooklyn,NY,US
+CUST-0314,Riley,Rodriguez,riley.rodriguez314@example.com,2026-02-03 01:57:00,Instagram,Seattle,WA,US
+CUST-0368,Skyler,Brown,skyler.brown368@example.com,2026-02-03 05:56:00,Instagram,Los Angeles,CA,US
+CUST-0199,Elliott,Martinez,elliott.martinez199@example.com,2026-02-03 07:54:00,Paid Social,Toronto,ON,CA
+CUST-0249,Taylor,Martinez,taylor.martinez249@example.com,2026-02-04 05:09:00,Instagram,Los Angeles,CA,US
+CUST-0311,Chris,Clark,chris.clark311@example.com,2026-02-04 08:49:00,Organic Search,Austin,TX,US
+CUST-0322,Riley,Lopez,riley.lopez322@example.com,2026-02-04 12:23:00,Instagram,Atlanta,GA,US
+CUST-0002,Sam,White,sam.white2@example.com,2026-02-04 13:43:00,TikTok,Los Angeles,CA,US
+CUST-0109,Jamie,Thompson,jamie.thompson109@example.com,2026-02-04 14:45:00,Instagram,Seattle,WA,US
+CUST-0088,Morgan,White,morgan.white88@example.com,2026-02-05 19:32:00,Organic Search,Denver,CO,US
+CUST-0439,Sam,Anderson,sam.anderson439@example.com,2026-02-05 20:59:00,Instagram,Atlanta,GA,US
+CUST-0064,Morgan,Lewis,morgan.lewis64@example.com,2026-02-06 14:16:00,Referral,San Francisco,CA,US
+CUST-0396,Finley,Lopez,finley.lopez396@example.com,2026-02-06 21:02:00,Instagram,Toronto,ON,CA
+CUST-0138,Reese,Moore,reese.moore138@example.com,2026-02-07 05:42:00,Instagram,Toronto,ON,CA
+CUST-0300,Morgan,Taylor,morgan.taylor300@example.com,2026-02-07 07:24:00,Instagram,Denver,CO,US
+CUST-0405,Avery,Anderson,avery.anderson405@example.com,2026-02-07 10:23:00,Organic Search,Portland,OR,US
+CUST-0370,Eden,Moore,eden.moore370@example.com,2026-02-07 12:08:00,TikTok,Portland,OR,US
+CUST-0429,Taylor,Lee,taylor.lee429@example.com,2026-02-08 04:14:00,Paid Social,Brooklyn,NY,US
+CUST-0030,Cameron,Chen,cameron.chen30@example.com,2026-02-08 13:59:00,Referral,Boston,MA,US
+CUST-0226,Eden,Lee,eden.lee226@example.com,2026-02-08 21:06:00,TikTok,Atlanta,GA,US
+CUST-0063,Harley,Lee,harley.lee63@example.com,2026-02-10 02:00:00,Paid Social,Denver,CO,US
+CUST-0337,Kai,Williams,kai.williams337@example.com,2026-02-10 04:47:00,Instagram,Portland,OR,US
+CUST-0137,Eden,Robinson,eden.robinson137@example.com,2026-02-11 12:17:00,Instagram,Dallas,TX,US
+CUST-0018,Cameron,Lopez,cameron.lopez18@example.com,2026-02-13 06:29:00,Instagram,Chicago,IL,US
+CUST-0260,Peyton,Rodriguez,peyton.rodriguez260@example.com,2026-02-14 21:06:00,Instagram,Seattle,WA,US
+CUST-0367,Cameron,Chen,cameron.chen367@example.com,2026-02-16 21:35:00,TikTok,Boston,MA,US
+CUST-0108,Jesse,Martinez,jesse.martinez108@example.com,2026-02-17 03:05:00,Instagram,Chicago,IL,US
+CUST-0014,Chris,Taylor,chris.taylor14@example.com,2026-02-17 09:15:00,TikTok,Austin,TX,US
+CUST-0447,River,Harris,river.harris447@example.com,2026-02-18 05:55:00,TikTok,Los Angeles,CA,US
+CUST-0341,Harley,Garcia,harley.garcia341@example.com,2026-02-18 11:20:00,TikTok,Denver,CO,US
+CUST-0212,Logan,Moore,logan.moore212@example.com,2026-02-18 19:44:00,Instagram,Denver,CO,US
+CUST-0046,Reese,Brown,reese.brown46@example.com,2026-02-19 23:11:00,TikTok,Miami,FL,US
+CUST-0193,Dakota,Smith,dakota.smith193@example.com,2026-02-20 20:47:00,Organic Search,San Diego,CA,US
+CUST-0224,Harley,Taylor,harley.taylor224@example.com,2026-02-20 21:05:00,Instagram,Toronto,ON,CA
+CUST-0133,Eden,Anderson,eden.anderson133@example.com,2026-02-21 13:27:00,TikTok,Boston,MA,US
+CUST-0140,Harley,Davis,harley.davis140@example.com,2026-02-21 20:17:00,TikTok,Miami,FL,US
+CUST-0124,Pat,Clark,pat.clark124@example.com,2026-02-22 10:39:00,Instagram,Chicago,IL,US
+CUST-0378,Rowan,Brown,rowan.brown378@example.com,2026-02-22 15:42:00,Referral,Portland,OR,US
+CUST-0285,Pat,Lewis,pat.lewis285@example.com,2026-02-22 21:22:00,Instagram,Chicago,IL,US
+CUST-0206,Taylor,Jackson,taylor.jackson206@example.com,2026-02-22 22:39:00,TikTok,Atlanta,GA,US
+CUST-0333,River,Johnson,river.johnson333@example.com,2026-02-23 02:23:00,Paid Social,Los Angeles,CA,US
+CUST-0304,Taylor,Rodriguez,taylor.rodriguez304@example.com,2026-02-23 03:24:00,Referral,Portland,OR,US
+CUST-0086,Emerson,Gonzalez,emerson.gonzalez86@example.com,2026-02-23 10:33:00,Instagram,Seattle,WA,US
+CUST-0256,Eden,Johnson,eden.johnson256@example.com,2026-02-23 12:27:00,Organic Search,San Francisco,CA,US
+CUST-0287,Kai,Johnson,kai.johnson287@example.com,2026-02-23 15:49:00,TikTok,San Diego,CA,US
+CUST-0387,Morgan,Martinez,morgan.martinez387@example.com,2026-02-23 17:29:00,Instagram,San Francisco,CA,US
+CUST-0432,Alex,Rodriguez,alex.rodriguez432@example.com,2026-02-25 04:38:00,Paid Social,San Francisco,CA,US
+CUST-0033,Finley,Taylor,finley.taylor33@example.com,2026-02-25 14:08:00,Paid Social,San Diego,CA,US
+CUST-0286,Sam,Davis,sam.davis286@example.com,2026-02-26 16:11:00,Organic Search,Chicago,IL,US
+CUST-0390,Sage,Moore,sage.moore390@example.com,2026-02-27 09:20:00,Organic Search,Seattle,WA,US
+CUST-0348,Peyton,Clark,peyton.clark348@example.com,2026-02-27 15:34:00,Instagram,Denver,CO,US
+CUST-0037,Reese,Williams,reese.williams37@example.com,2026-02-27 17:14:00,Instagram,Los Angeles,CA,US
+CUST-0320,Taylor,Robinson,taylor.robinson320@example.com,2026-02-27 17:52:00,Referral,Dallas,TX,US
+CUST-0413,Skyler,Martinez,skyler.martinez413@example.com,2026-02-28 07:30:00,Instagram,Toronto,ON,CA
+CUST-0083,Morgan,Lewis,morgan.lewis83@example.com,2026-02-28 18:11:00,Instagram,Miami,FL,US
+CUST-0209,Chris,Johnson,chris.johnson209@example.com,2026-03-01 00:22:00,TikTok,Denver,CO,US
+CUST-0297,Emerson,Wilson,emerson.wilson297@example.com,2026-03-01 00:33:00,Instagram,Austin,TX,US
+CUST-0305,River,Thompson,river.thompson305@example.com,2026-03-01 09:43:00,TikTok,Los Angeles,CA,US
+CUST-0024,Elliott,Chen,elliott.chen24@example.com,2026-03-02 07:46:00,Organic Search,San Francisco,CA,US
+CUST-0296,Eden,Martinez,eden.martinez296@example.com,2026-03-02 08:05:00,Instagram,Austin,TX,US
+CUST-0425,Dakota,Martinez,dakota.martinez425@example.com,2026-03-02 08:30:00,Organic Search,San Francisco,CA,US
+CUST-0385,Jesse,Jackson,jesse.jackson385@example.com,2026-03-02 14:20:00,Organic Search,Portland,OR,US
+CUST-0263,Finley,Clark,finley.clark263@example.com,2026-03-03 05:39:00,TikTok,New York,NY,US
+CUST-0421,Emerson,Johnson,emerson.johnson421@example.com,2026-03-03 21:59:00,Organic Search,Dallas,TX,US
+CUST-0349,Taylor,Martinez,taylor.martinez349@example.com,2026-03-04 07:18:00,TikTok,Denver,CO,US
+CUST-0169,Peyton,Smith,peyton.smith169@example.com,2026-03-05 23:47:00,TikTok,Portland,OR,US
+CUST-0335,Cameron,Smith,cameron.smith335@example.com,2026-03-06 06:24:00,Instagram,Boston,MA,US
+CUST-0143,Alex,Johnson,alex.johnson143@example.com,2026-03-07 19:14:00,Organic Search,Toronto,ON,CA
+CUST-0196,Elliott,Ramirez,elliott.ramirez196@example.com,2026-03-08 00:06:00,Instagram,Dallas,TX,US
+CUST-0362,Sam,Ramirez,sam.ramirez362@example.com,2026-03-08 12:28:00,Referral,Austin,TX,US
+CUST-0051,Harley,Wilson,harley.wilson51@example.com,2026-03-08 19:27:00,Instagram,San Diego,CA,US
+CUST-0200,Kai,Thompson,kai.thompson200@example.com,2026-03-09 01:55:00,TikTok,Brooklyn,NY,US
+CUST-0217,Milan,Lee,milan.lee217@example.com,2026-03-09 06:02:00,Organic Search,Denver,CO,US
+CUST-0403,Peyton,Martinez,peyton.martinez403@example.com,2026-03-09 15:25:00,TikTok,Denver,CO,US
+CUST-0316,Hayden,Thomas,hayden.thomas316@example.com,2026-03-09 23:10:00,Referral,Seattle,WA,US
+CUST-0116,River,Sanchez,river.sanchez116@example.com,2026-03-10 22:46:00,Referral,Austin,TX,US
+CUST-0027,Finley,Jones,finley.jones27@example.com,2026-03-11 02:58:00,Referral,San Francisco,CA,US
+CUST-0058,Sam,Perez,sam.perez58@example.com,2026-03-11 06:19:00,Instagram,Dallas,TX,US
+CUST-0331,Rowan,Miller,rowan.miller331@example.com,2026-03-11 08:09:00,TikTok,Denver,CO,US
+CUST-0181,Reese,Lewis,reese.lewis181@example.com,2026-03-11 08:31:00,Instagram,San Francisco,CA,US
+CUST-0013,River,Davis,river.davis13@example.com,2026-03-11 08:59:00,TikTok,Los Angeles,CA,US
+CUST-0052,Avery,Garcia,avery.garcia52@example.com,2026-03-11 11:37:00,Organic Search,Brooklyn,NY,US
+CUST-0388,Riley,Brown,riley.brown388@example.com,2026-03-13 13:03:00,Paid Social,Denver,CO,US
+CUST-0188,Casey,Harris,casey.harris188@example.com,2026-03-13 23:21:00,Referral,Miami,FL,US
+CUST-0355,Finley,Lee,finley.lee355@example.com,2026-03-14 21:23:00,Paid Social,Toronto,ON,CA
+CUST-0070,Morgan,Johnson,morgan.johnson70@example.com,2026-03-15 08:57:00,TikTok,Chicago,IL,US
+CUST-0001,Kai,Williams,kai.williams1@example.com,2026-03-15 10:47:00,Instagram,Miami,FL,US
+CUST-0152,Finley,Anderson,finley.anderson152@example.com,2026-03-15 13:55:00,TikTok,New York,NY,US
+CUST-0433,Jesse,Rodriguez,jesse.rodriguez433@example.com,2026-03-16 00:41:00,Referral,San Diego,CA,US
+CUST-0257,Logan,Sanchez,logan.sanchez257@example.com,2026-03-16 14:35:00,TikTok,Brooklyn,NY,US
+CUST-0369,Jamie,Thompson,jamie.thompson369@example.com,2026-03-17 09:30:00,Organic Search,Philadelphia,PA,US
+CUST-0184,Sage,Williams,sage.williams184@example.com,2026-03-19 00:07:00,TikTok,Chicago,IL,US
+CUST-0364,Emerson,Johnson,emerson.johnson364@example.com,2026-03-19 03:34:00,Referral,Denver,CO,US
+CUST-0144,Avery,Perez,avery.perez144@example.com,2026-03-19 04:23:00,TikTok,San Diego,CA,US
+CUST-0003,Jordan,Chen,jordan.chen3@example.com,2026-03-19 12:13:00,TikTok,Atlanta,GA,US
+CUST-0250,Peyton,Lee,peyton.lee250@example.com,2026-03-20 04:35:00,Instagram,Portland,OR,US
+CUST-0344,Jesse,Davis,jesse.davis344@example.com,2026-03-20 13:51:00,TikTok,Boston,MA,US
+CUST-0167,Eden,Moore,eden.moore167@example.com,2026-03-20 19:28:00,TikTok,San Francisco,CA,US
+CUST-0334,Skyler,Thomas,skyler.thomas334@example.com,2026-03-21 02:35:00,Instagram,New York,NY,US
+CUST-0415,Elliott,White,elliott.white415@example.com,2026-03-21 07:41:00,TikTok,Miami,FL,US
+CUST-0016,Eden,Harris,eden.harris16@example.com,2026-03-21 11:14:00,Referral,Brooklyn,NY,US
+CUST-0271,River,Gonzalez,river.gonzalez271@example.com,2026-03-22 01:38:00,TikTok,Dallas,TX,US
+CUST-0198,Casey,Martinez,casey.martinez198@example.com,2026-03-22 05:44:00,TikTok,Toronto,ON,CA
+CUST-0313,Peyton,Rodriguez,peyton.rodriguez313@example.com,2026-03-22 09:50:00,Instagram,Dallas,TX,US
+CUST-0075,Riley,Ramirez,riley.ramirez75@example.com,2026-03-22 15:51:00,Referral,Austin,TX,US
+CUST-0159,Peyton,Smith,peyton.smith159@example.com,2026-03-23 05:47:00,Paid Social,San Francisco,CA,US
+CUST-0096,Finley,Miller,finley.miller96@example.com,2026-03-23 07:19:00,Referral,Atlanta,GA,US
+CUST-0097,Sam,Chen,sam.chen97@example.com,2026-03-23 11:15:00,TikTok,San Diego,CA,US
+CUST-0442,Logan,Thompson,logan.thompson442@example.com,2026-03-23 17:03:00,TikTok,San Francisco,CA,US
+CUST-0234,Reese,Miller,reese.miller234@example.com,2026-03-23 21:06:00,TikTok,Boston,MA,US
+CUST-0446,Skyler,Robinson,skyler.robinson446@example.com,2026-03-24 01:48:00,Organic Search,Seattle,WA,US
+CUST-0095,River,Lee,river.lee95@example.com,2026-03-24 05:21:00,Referral,Los Angeles,CA,US
+CUST-0259,Elliott,Perez,elliott.perez259@example.com,2026-03-24 23:55:00,Paid Social,Brooklyn,NY,US
+CUST-0315,Rowan,Wilson,rowan.wilson315@example.com,2026-03-25 00:49:00,Organic Search,Denver,CO,US
+CUST-0303,Kai,Thompson,kai.thompson303@example.com,2026-03-25 07:25:00,TikTok,Chicago,IL,US
+CUST-0218,Jordan,Moore,jordan.moore218@example.com,2026-03-25 21:46:00,Instagram,Chicago,IL,US
+CUST-0289,Kai,Martinez,kai.martinez289@example.com,2026-03-26 14:28:00,TikTok,Los Angeles,CA,US
+CUST-0431,Jamie,Sanchez,jamie.sanchez431@example.com,2026-03-28 01:11:00,Referral,Denver,CO,US
+CUST-0449,Skyler,Lewis,skyler.lewis449@example.com,2026-03-28 02:12:00,Instagram,Chicago,IL,US
+CUST-0238,Sam,Sanchez,sam.sanchez238@example.com,2026-03-28 04:13:00,Referral,Los Angeles,CA,US
+CUST-0330,Milan,Anderson,milan.anderson330@example.com,2026-03-29 05:34:00,TikTok,New York,NY,US
+CUST-0142,Finley,Miller,finley.miller142@example.com,2026-03-29 08:30:00,TikTok,San Diego,CA,US
+CUST-0059,Finley,Robinson,finley.robinson59@example.com,2026-03-29 12:00:00,TikTok,Dallas,TX,US
+CUST-0402,Hayden,Wilson,hayden.wilson402@example.com,2026-03-29 14:38:00,Instagram,Chicago,IL,US
+CUST-0221,Casey,Robinson,casey.robinson221@example.com,2026-03-31 01:51:00,Organic Search,Denver,CO,US
+CUST-0265,Emerson,Harris,emerson.harris265@example.com,2026-03-31 19:58:00,Instagram,Portland,OR,US
+CUST-0306,Dakota,Thomas,dakota.thomas306@example.com,2026-03-31 21:01:00,Instagram,Boston,MA,US
+CUST-0351,Jordan,White,jordan.white351@example.com,2026-03-31 21:39:00,Instagram,Philadelphia,PA,US
+CUST-0293,Hayden,Lopez,hayden.lopez293@example.com,2026-04-01 00:37:00,TikTok,Brooklyn,NY,US
+CUST-0393,Logan,Smith,logan.smith393@example.com,2026-04-02 11:18:00,TikTok,San Diego,CA,US
+CUST-0141,Hayden,Garcia,hayden.garcia141@example.com,2026-04-02 12:15:00,TikTok,Philadelphia,PA,US
+CUST-0274,Avery,Smith,avery.smith274@example.com,2026-04-03 17:25:00,Instagram,Brooklyn,NY,US
+CUST-0361,Peyton,Rodriguez,peyton.rodriguez361@example.com,2026-04-05 08:58:00,Instagram,San Diego,CA,US
+CUST-0325,Sam,Harris,sam.harris325@example.com,2026-04-06 08:30:00,TikTok,Dallas,TX,US
+CUST-0228,Kai,Clark,kai.clark228@example.com,2026-04-07 00:58:00,TikTok,Denver,CO,US
+CUST-0276,Morgan,Chen,morgan.chen276@example.com,2026-04-07 01:47:00,Instagram,Philadelphia,PA,US
+CUST-0145,Logan,Gonzalez,logan.gonzalez145@example.com,2026-04-09 09:35:00,Instagram,Portland,OR,US
+CUST-0177,Casey,Martinez,casey.martinez177@example.com,2026-04-09 13:49:00,Referral,Toronto,ON,CA
+CUST-0022,Sam,Lee,sam.lee22@example.com,2026-04-09 15:50:00,TikTok,Philadelphia,PA,US
+CUST-0072,Jordan,Rodriguez,jordan.rodriguez72@example.com,2026-04-09 21:57:00,Referral,Brooklyn,NY,US
+CUST-0134,Eden,Wilson,eden.wilson134@example.com,2026-04-10 08:09:00,Instagram,Philadelphia,PA,US
+CUST-0048,Skyler,Clark,skyler.clark48@example.com,2026-04-10 10:05:00,Instagram,Atlanta,GA,US
+CUST-0416,Pat,Miller,pat.miller416@example.com,2026-04-10 18:35:00,Instagram,Denver,CO,US
+CUST-0410,Reese,Martinez,reese.martinez410@example.com,2026-04-11 23:09:00,Organic Search,Philadelphia,PA,US
+CUST-0342,Eden,Taylor,eden.taylor342@example.com,2026-04-12 01:16:00,Organic Search,Brooklyn,NY,US
+CUST-0411,Dakota,Thomas,dakota.thomas411@example.com,2026-04-12 05:58:00,Referral,San Diego,CA,US
+CUST-0049,Cameron,Anderson,cameron.anderson49@example.com,2026-04-14 16:55:00,Paid Social,Toronto,ON,CA
+CUST-0183,Alex,Taylor,alex.taylor183@example.com,2026-04-15 23:05:00,Paid Social,Atlanta,GA,US
+CUST-0299,Jordan,Sanchez,jordan.sanchez299@example.com,2026-04-16 06:41:00,Instagram,Portland,OR,US
+CUST-0010,Emerson,Johnson,emerson.johnson10@example.com,2026-04-16 11:42:00,Organic Search,Atlanta,GA,US
+CUST-0438,Hayden,Martinez,hayden.martinez438@example.com,2026-04-17 12:25:00,Instagram,San Francisco,CA,US
+CUST-0347,Hayden,Davis,hayden.davis347@example.com,2026-04-17 12:46:00,Instagram,Philadelphia,PA,US
+CUST-0268,Reese,Martinez,reese.martinez268@example.com,2026-04-17 15:23:00,Organic Search,Denver,CO,US
+CUST-0089,Jesse,Lopez,jesse.lopez89@example.com,2026-04-19 08:18:00,Instagram,Chicago,IL,US
+CUST-0123,Finley,Lee,finley.lee123@example.com,2026-04-19 11:48:00,Paid Social,New York,NY,US
+CUST-0332,Peyton,Hernandez,peyton.hernandez332@example.com,2026-04-19 17:36:00,Instagram,Philadelphia,PA,US
+CUST-0148,Kendall,Anderson,kendall.anderson148@example.com,2026-04-19 18:46:00,Paid Social,Denver,CO,US
+CUST-0343,Pat,Rodriguez,pat.rodriguez343@example.com,2026-04-21 21:55:00,Referral,Brooklyn,NY,US
+CUST-0414,Chris,Wilson,chris.wilson414@example.com,2026-04-22 03:21:00,Organic Search,Boston,MA,US
+CUST-0074,Skyler,Lewis,skyler.lewis74@example.com,2026-04-23 23:39:00,Paid Social,Chicago,IL,US
+CUST-0383,Harley,Perez,harley.perez383@example.com,2026-04-24 22:19:00,Instagram,Dallas,TX,US
+CUST-0062,Logan,Rodriguez,logan.rodriguez62@example.com,2026-04-26 15:28:00,TikTok,Denver,CO,US
+CUST-0404,Hayden,Clark,hayden.clark404@example.com,2026-04-27 02:34:00,Organic Search,San Diego,CA,US
+CUST-0277,Jamie,Taylor,jamie.taylor277@example.com,2026-04-28 08:14:00,Instagram,Boston,MA,US
+CUST-0131,Rowan,Sanchez,rowan.sanchez131@example.com,2026-04-28 11:22:00,Organic Search,Philadelphia,PA,US
+CUST-0278,Elliott,White,elliott.white278@example.com,2026-04-28 11:27:00,TikTok,New York,NY,US
+CUST-0153,Cameron,Anderson,cameron.anderson153@example.com,2026-04-29 00:21:00,Paid Social,Austin,TX,US
+CUST-0267,Kendall,Lee,kendall.lee267@example.com,2026-04-29 10:05:00,Instagram,Seattle,WA,US
+CUST-0360,Morgan,Davis,morgan.davis360@example.com,2026-04-29 18:45:00,Instagram,Dallas,TX,US
+CUST-0406,Dakota,Moore,dakota.moore406@example.com,2026-04-29 19:50:00,TikTok,New York,NY,US
+CUST-0227,Peyton,Lewis,peyton.lewis227@example.com,2026-04-30 03:20:00,TikTok,Atlanta,GA,US
+CUST-0066,Emerson,Martinez,emerson.martinez66@example.com,2026-05-01 16:43:00,TikTok,Miami,FL,US
+CUST-0282,Elliott,Williams,elliott.williams282@example.com,2026-05-02 17:27:00,TikTok,Toronto,ON,CA
+CUST-0235,Kai,Hernandez,kai.hernandez235@example.com,2026-05-03 11:25:00,Instagram,Miami,FL,US
+CUST-0007,Jamie,Williams,jamie.williams7@example.com,2026-05-03 21:54:00,TikTok,Boston,MA,US
+CUST-0055,Riley,Lopez,riley.lopez55@example.com,2026-05-05 13:56:00,TikTok,Atlanta,GA,US
+CUST-0179,Pat,Thomas,pat.thomas179@example.com,2026-05-05 21:39:00,TikTok,San Diego,CA,US
+CUST-0372,Eden,Harris,eden.harris372@example.com,2026-05-06 03:40:00,Organic Search,Austin,TX,US
+CUST-0309,Skyler,Clark,skyler.clark309@example.com,2026-05-08 09:56:00,Organic Search,Brooklyn,NY,US
+CUST-0135,Hayden,Lee,hayden.lee135@example.com,2026-05-08 18:39:00,TikTok,San Diego,CA,US
+CUST-0060,Rowan,Williams,rowan.williams60@example.com,2026-05-11 12:34:00,TikTok,Seattle,WA,US
+CUST-0340,Taylor,Thompson,taylor.thompson340@example.com,2026-05-12 00:02:00,Instagram,Denver,CO,US
+CUST-0409,River,Miller,river.miller409@example.com,2026-05-12 11:36:00,Instagram,San Francisco,CA,US
+CUST-0237,Peyton,Chen,peyton.chen237@example.com,2026-05-12 11:50:00,Instagram,Portland,OR,US
+CUST-0236,Morgan,Ramirez,morgan.ramirez236@example.com,2026-05-13 00:05:00,TikTok,Seattle,WA,US
+CUST-0417,Avery,Harris,avery.harris417@example.com,2026-05-13 19:45:00,Organic Search,Seattle,WA,US
+CUST-0069,Casey,Jones,casey.jones69@example.com,2026-05-16 09:28:00,TikTok,Philadelphia,PA,US
+CUST-0395,Elliott,Williams,elliott.williams395@example.com,2026-05-16 23:08:00,Organic Search,Miami,FL,US
+CUST-0273,Avery,Perez,avery.perez273@example.com,2026-05-18 07:37:00,TikTok,San Diego,CA,US
+CUST-0317,Sam,Ramirez,sam.ramirez317@example.com,2026-05-19 18:03:00,Referral,San Diego,CA,US
+CUST-0245,Cameron,Wilson,cameron.wilson245@example.com,2026-05-19 21:32:00,TikTok,San Francisco,CA,US
+CUST-0420,Finley,Sanchez,finley.sanchez420@example.com,2026-05-20 14:18:00,Instagram,Brooklyn,NY,US
+CUST-0102,Sage,Ramirez,sage.ramirez102@example.com,2026-05-24 13:29:00,Referral,Chicago,IL,US
+CUST-0112,Finley,Moore,finley.moore112@example.com,2026-05-24 22:30:00,Paid Social,New York,NY,US
+CUST-0321,Sage,Chen,sage.chen321@example.com,2026-05-24 23:03:00,TikTok,Toronto,ON,CA
+CUST-0071,Eden,Hernandez,eden.hernandez71@example.com,2026-05-25 04:35:00,TikTok,Chicago,IL,US
+CUST-0352,Harley,Smith,harley.smith352@example.com,2026-05-26 12:42:00,Instagram,Toronto,ON,CA
+CUST-0115,Casey,Gonzalez,casey.gonzalez115@example.com,2026-05-27 01:01:00,Instagram,Toronto,ON,CA
+CUST-0205,Dakota,Moore,dakota.moore205@example.com,2026-05-27 07:50:00,Instagram,Austin,TX,US
+CUST-0346,Chris,Anderson,chris.anderson346@example.com,2026-05-27 08:31:00,Paid Social,Boston,MA,US
+CUST-0436,Emerson,Jones,emerson.jones436@example.com,2026-05-30 10:47:00,Organic Search,Portland,OR,US
+CUST-0318,Skyler,Robinson,skyler.robinson318@example.com,2026-06-01 13:45:00,Instagram,San Francisco,CA,US
+CUST-0011,Taylor,Ramirez,taylor.ramirez11@example.com,2026-06-01 17:55:00,Instagram,San Francisco,CA,US
+CUST-0043,Dakota,Hernandez,dakota.hernandez43@example.com,2026-06-01 23:26:00,Referral,Dallas,TX,US
+CUST-0329,Kai,Sanchez,kai.sanchez329@example.com,2026-06-06 05:29:00,Instagram,Los Angeles,CA,US
+CUST-0170,Alex,Johnson,alex.johnson170@example.com,2026-06-06 17:43:00,Paid Social,New York,NY,US
+CUST-0165,Skyler,Miller,skyler.miller165@example.com,2026-06-09 06:09:00,Referral,Miami,FL,US
+CUST-0443,Chris,Lopez,chris.lopez443@example.com,2026-06-10 07:32:00,Organic Search,Denver,CO,US
+CUST-0326,Milan,Johnson,milan.johnson326@example.com,2026-06-12 10:16:00,Referral,Seattle,WA,US
+CUST-0147,Pat,Martinez,pat.martinez147@example.com,2026-06-13 13:47:00,Instagram,Austin,TX,US
+CUST-0253,Milan,Miller,milan.miller253@example.com,2026-06-14 23:21:00,Instagram,Dallas,TX,US
+CUST-0154,Casey,Ramirez,casey.ramirez154@example.com,2026-06-15 01:07:00,TikTok,Los Angeles,CA,US
+CUST-0114,Kendall,Taylor,kendall.taylor114@example.com,2026-06-15 05:57:00,TikTok,Atlanta,GA,US
+CUST-0375,Emerson,Miller,emerson.miller375@example.com,2026-06-18 21:33:00,Referral,Denver,CO,US
+CUST-0323,Sage,Williams,sage.williams323@example.com,2026-06-19 08:41:00,Organic Search,Portland,OR,US
+CUST-0005,Rowan,Davis,rowan.davis5@example.com,2026-06-19 10:48:00,Organic Search,Austin,TX,US
+CUST-0338,Logan,Taylor,logan.taylor338@example.com,2026-06-20 20:52:00,Referral,Austin,TX,US
+CUST-0203,Emerson,Rodriguez,emerson.rodriguez203@example.com,2026-06-22 10:02:00,Organic Search,Portland,OR,US
+CUST-0038,Rowan,Taylor,rowan.taylor38@example.com,2026-06-23 17:37:00,Instagram,Atlanta,GA,US
+CUST-0128,Rowan,Perez,rowan.perez128@example.com,2026-06-26 22:25:00,Instagram,Seattle,WA,US
+CUST-0126,Casey,Harris,casey.harris126@example.com,2026-06-30 21:10:00,Organic Search,San Francisco,CA,US
+CUST-0213,Eden,Perez,eden.perez213@example.com,2026-07-02 22:17:00,TikTok,New York,NY,US
+CUST-0441,Avery,Moore,avery.moore441@example.com,2026-07-03 09:36:00,Instagram,New York,NY,US
+CUST-0204,Avery,Hernandez,avery.hernandez204@example.com,2026-07-04 21:27:00,Instagram,Chicago,IL,US
+CUST-0176,Jamie,Clark,jamie.clark176@example.com,2026-07-12 03:02:00,Instagram,Dallas,TX,US
+CUST-0079,Riley,Garcia,riley.garcia79@example.com,2026-07-30 00:22:00,Referral,Denver,CO,US
