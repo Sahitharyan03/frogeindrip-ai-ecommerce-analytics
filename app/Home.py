@@ -92,6 +92,73 @@ with col4:
 
 st.markdown("<br>", unsafe_allow_html=True)
 
+# Verified Ground Truth Visual Proof
+st.markdown("### 📸 Ground Truth Evidence: Square POS Screenshots")
+st.markdown(
+    """
+    <p style="color: #94a3b8; font-size: 1rem; margin-top: -8px; margin-bottom: 16px;">
+        All baseline metrics originate from authentic Square POS analytics screenshots, sanitized under client privacy guidelines (<code style="color: #38bdf8;">[REDACTED ACCOUNT]</code>) to protect commercial confidentiality.
+    </p>
+    """,
+    unsafe_allow_html=True,
+)
+
+screenshot_dir = ROOT_DIR / "evidence" / "screenshots"
+tab_trend, tab_peak, tab_runrate = st.tabs([
+    "📈 12-Month Sales Trend ($38,131.26)",
+    "🏔️ May 2026 Monthly Peak ($8,397.00)",
+    "📉 July 2026 Run-Rate ($1,505.00)",
+])
+
+with tab_trend:
+    img1 = screenshot_dir / "01_square_gross_sales_trend_overview.png"
+    if img1.exists():
+        st.image(
+            str(img1),
+            caption="Square Analytics: Gross Sales Trend Overview (Jul 01, 2025 – Jul 01, 2026) — Verified $38,131.26 Gross Sales vs $0.00 Baseline (▲ 100%).",
+            use_container_width=True,
+        )
+    st.markdown(
+        """
+        - **Reporting Period:** `Jul 01, 2025 – Jul 01, 2026` (366 days, Location 1, all channels)
+        - **Verified Metric:** Gross Sales = **$38,131.26** (Baseline: `$0.00` from `Jun 30, 2024 – Jun 30, 2025`)
+        - **Statistical Takeaway:** Flat line until Nov 2025 launch, followed by rapid scaling into spring.
+        """
+    )
+
+with tab_peak:
+    img2 = screenshot_dir / "02_square_may_2026_peak_sales_tooltip.png"
+    if img2.exists():
+        st.image(
+            str(img2),
+            caption="Square Analytics: May 2026 Monthly Peak Tooltip ($8,397.00 Item Sales including Modifiers).",
+            use_container_width=True,
+        )
+    st.markdown(
+        """
+        - **Peak Month:** **May 2026 = $8,397.00** (Highest volume month of the 12-month period)
+        - **Revenue Concentration:** Drives **22.02%** of 12-month rolling gross revenue ($8,397 / $38,131.26).
+        - **Commercial Driver:** High-velocity spring capsule apparel collection drop.
+        """
+    )
+
+with tab_runrate:
+    img3 = screenshot_dir / "03_square_july_2026_run_rate_tooltip.png"
+    if img3.exists():
+        st.image(
+            str(img3),
+            caption="Square Analytics: July 2026 Post-Peak Tooltip ($1,505.00 Run-rate).",
+            use_container_width=True,
+        )
+    st.markdown(
+        """
+        - **Run-rate Volume:** **July 2026 = $1,505.00** (Partial month cut-off)
+        - **Operational Context:** Post-campaign inventory exhaustion and transition to fall catalog planning.
+        """
+    )
+
+st.markdown("<br>", unsafe_allow_html=True)
+
 # Architecture & Capabilities Showcase
 st.markdown("### 🏛️ End-to-End Enterprise Data Architecture")
 
